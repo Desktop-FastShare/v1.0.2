@@ -1,0 +1,1883 @@
+[Fri Nov 16 00:32:58 2018] [notice] Apache/2.2.17 (Win32) configured -- resuming normal operations
+[Fri Nov 16 00:32:58 2018] [notice] Server built: Oct 18 2010 01:58:12
+[Fri Nov 16 00:32:58 2018] [notice] Parent: Created child process 9412
+Apache server shutdown initiated...
+Child 9412: Child process is running
+[Fri Nov 16 00:32:58 2018] [notice] Child 9412: Acquired the start mutex.
+[Fri Nov 16 00:32:58 2018] [notice] Child 9412: Starting 64 worker threads.
+[Fri Nov 16 00:32:58 2018] [notice] Child 9412: Starting thread to listen on port 8080.
+[Fri Nov 16 00:34:09 2018] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Fri Nov 16 00:34:09 2018] [notice] Child 9412: Exit event signaled. Child process is ending.
+[Fri Nov 16 00:34:10 2018] [notice] Child 9412: Released the start mutex
+[Fri Nov 16 00:34:11 2018] [notice] Child 9412: All worker threads have exited.
+[Fri Nov 16 00:34:11 2018] [notice] Child 9412: Child process is exiting
+[Fri Nov 16 00:34:11 2018] [notice] Parent: Child process exited successfully.
+[Fri Nov 16 00:37:08 2018] [notice] Apache/2.2.17 (Win32) configured -- resuming normal operations
+[Fri Nov 16 00:37:08 2018] [notice] Server built: Oct 18 2010 01:58:12
+[Fri Nov 16 00:37:08 2018] [notice] Parent: Created child process 11620
+Apache server shutdown initiated...
+Child 11620: Child process is running
+[Fri Nov 16 00:37:08 2018] [notice] Child 11620: Acquired the start mutex.
+[Fri Nov 16 00:37:08 2018] [notice] Child 11620: Starting 64 worker threads.
+[Fri Nov 16 00:37:08 2018] [notice] Child 11620: Starting thread to listen on port 8080.
+[Fri Nov 16 00:37:26 2018] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Fri Nov 16 00:37:26 2018] [notice] Child 11620: Exit event signaled. Child process is ending.
+[Fri Nov 16 00:37:27 2018] [notice] Child 11620: Released the start mutex
+[Fri Nov 16 00:37:28 2018] [notice] Child 11620: All worker threads have exited.
+[Fri Nov 16 00:37:28 2018] [notice] Child 11620: Child process is exiting
+[Fri Nov 16 00:37:28 2018] [notice] Parent: Child process exited successfully.
+[Fri Nov 16 00:49:50 2018] [notice] Apache/2.2.17 (Win32) configured -- resuming normal operations
+[Fri Nov 16 00:49:50 2018] [notice] Server built: Oct 18 2010 01:58:12
+[Fri Nov 16 00:49:50 2018] [notice] Parent: Created child process 3184
+Apache server shutdown initiated...
+Child 3184: Child process is running
+[Fri Nov 16 00:49:50 2018] [notice] Child 3184: Acquired the start mutex.
+[Fri Nov 16 00:49:50 2018] [notice] Child 3184: Starting 64 worker threads.
+[Fri Nov 16 00:49:50 2018] [notice] Child 3184: Starting thread to listen on port 8080.
+[Fri Nov 16 00:50:41 2018] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Fri Nov 16 00:50:41 2018] [notice] Child 3184: Exit event signaled. Child process is ending.
+[Fri Nov 16 00:50:43 2018] [notice] Child 3184: Released the start mutex
+[Fri Nov 16 00:50:44 2018] [notice] Child 3184: All worker threads have exited.
+[Fri Nov 16 00:50:44 2018] [notice] Child 3184: Child process is exiting
+[Fri Nov 16 00:50:44 2018] [notice] Parent: Child process exited successfully.
+[Fri Nov 16 00:50:50 2018] [notice] Apache/2.2.17 (Win32) configured -- resuming normal operations
+[Fri Nov 16 00:50:50 2018] [notice] Server built: Oct 18 2010 01:58:12
+[Fri Nov 16 00:50:50 2018] [notice] Parent: Created child process 8864
+Apache server shutdown initiated...
+Child 8864: Child process is running
+[Fri Nov 16 00:50:50 2018] [notice] Child 8864: Acquired the start mutex.
+[Fri Nov 16 00:50:50 2018] [notice] Child 8864: Starting 64 worker threads.
+[Fri Nov 16 00:50:50 2018] [notice] Child 8864: Starting thread to listen on port 8000.
+[Fri Nov 16 00:50:55 2018] [error] [client 127.0.0.1] File does not exist: C:/Users/rpsnaik/Downloads/Compressed/portable-apache-2.2.17-win32-x86/htdocs/favicon.ico, referer: http://localhost:8000/
+[Fri Nov 16 00:51:04 2018] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Fri Nov 16 00:51:04 2018] [notice] Child 8864: Exit event signaled. Child process is ending.
+[Fri Nov 16 00:51:05 2018] [notice] Child 8864: Released the start mutex
+[Fri Nov 16 00:51:06 2018] [notice] Child 8864: All worker threads have exited.
+[Fri Nov 16 00:51:06 2018] [notice] Child 8864: Child process is exiting
+[Fri Nov 16 00:51:06 2018] [notice] Parent: Child process exited successfully.
+[Fri Nov 16 01:19:43 2018] [notice] Apache/2.2.17 (Win32) configured -- resuming normal operations
+[Fri Nov 16 01:19:43 2018] [notice] Server built: Oct 18 2010 01:58:12
+[Fri Nov 16 01:19:43 2018] [notice] Parent: Created child process 11344
+Apache server interrupted...
+otice] Child 11344: Child process is running
+[Fri Nov 16 01:19:43 2018] [notice] Child 11344: Acquired the start mutex.
+[Fri Nov 16 01:19:43 2018] [notice] Child 11344: Starting 64 worker threads.
+[Fri Nov 16 01:19:43 2018] [notice] Child 11344: Starting thread to listen on port 2345.
+[Fri Nov 16 01:19:51 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Desktop Share/
+[Fri Nov 16 01:19:51 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Desktop Share/error
+[Fri Nov 16 01:19:59 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Desktop Share/htdocs
+[Fri Nov 16 01:19:59 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Desktop Share/error
+[Fri Nov 16 01:20:02 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Desktop Share/htdocs
+[Fri Nov 16 01:20:02 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Desktop Share/error
+[Fri Nov 16 01:20:37 2018] [notice] Parent: Received shutdown signal -- Shutting down the server.
+Apache server interrupted...
+Apache server interrupted...
+t signaled. Child process is ending.
+[Fri Nov 16 01:20:38 2018] [notice] Child 11344: Released the start mutex
+[Fri Nov 16 01:20:39 2018] [notice] Child 11344: All worker threads have exited.
+[Fri Nov 16 01:20:39 2018] [notice] Child 11344: Child process is exiting
+[Fri Nov 16 01:20:39 2018] [notice] Parent: Child process exited successfully.
+[Fri Nov 16 01:28:14 2018] [notice] Apache/2.2.17 (Win32) configured -- resuming normal operations
+[Fri Nov 16 01:28:14 2018] [notice] Server built: Oct 18 2010 01:58:12
+[Fri Nov 16 01:28:14 2018] [notice] Parent: Created child process 11556
+Apache server shutdown initiated...
+Child 11556: Child process is running
+[Fri Nov 16 01:28:14 2018] [notice] Child 11556: Acquired the start mutex.
+[Fri Nov 16 01:28:14 2018] [notice] Child 11556: Starting 64 worker threads.
+[Fri Nov 16 01:28:14 2018] [notice] Child 11556: Starting thread to listen on port 2345.
+[Fri Nov 16 01:28:17 2018] [error] [client 127.0.0.1] File does not exist: C:/Users/rpsnaik/Desktop/Desktop Share/apache2.0/htdocs/htdocs
+[Fri Nov 16 01:28:17 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Desktop Share/error
+[Fri Nov 16 01:29:34 2018] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Fri Nov 16 01:29:34 2018] [notice] Child 11556: Exit event signaled. Child process is ending.
+[Fri Nov 16 01:29:35 2018] [notice] Child 11556: Released the start mutex
+[Fri Nov 16 01:29:41 2018] [notice] Child 11556: All worker threads have exited.
+[Fri Nov 16 01:29:41 2018] [notice] Child 11556: Child process is exiting
+[Fri Nov 16 01:31:58 2018] [warn] pid file C:/Users/rpsnaik/Desktop/Desktop Share/apache2.0/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Nov 16 01:31:58 2018] [notice] Apache/2.2.17 (Win32) configured -- resuming normal operations
+[Fri Nov 16 01:31:58 2018] [notice] Server built: Oct 18 2010 01:58:12
+[Fri Nov 16 01:31:58 2018] [notice] Parent: Created child process 13840
+Apache server shutdown initiated...
+Child 13840: Child process is running
+[Fri Nov 16 01:31:58 2018] [notice] Child 13840: Acquired the start mutex.
+[Fri Nov 16 01:31:58 2018] [notice] Child 13840: Starting 64 worker threads.
+[Fri Nov 16 01:31:58 2018] [notice] Child 13840: Starting thread to listen on port 2345.
+[Fri Nov 16 01:32:09 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Desktop Share/icons, referer: http://localhost:2345/
+[Fri Nov 16 01:32:09 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Desktop Share/error, referer: http://localhost:2345/
+[Fri Nov 16 01:32:09 2018] [error] [client 127.0.0.1] File does not exist: C:/Users/rpsnaik/Desktop/Desktop Share/apache2.0/htdocs/favicon.ico, referer: http://localhost:2345/
+[Fri Nov 16 01:32:09 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Desktop Share/error, referer: http://localhost:2345/
+[Fri Nov 16 01:32:13 2018] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Fri Nov 16 01:32:13 2018] [notice] Child 13840: Exit event signaled. Child process is ending.
+[Fri Nov 16 01:32:14 2018] [notice] Child 13840: Released the start mutex
+[Fri Nov 16 01:32:15 2018] [notice] Child 13840: All worker threads have exited.
+[Fri Nov 16 01:32:15 2018] [notice] Child 13840: Child process is exiting
+[Fri Nov 16 01:32:15 2018] [notice] Parent: Child process exited successfully.
+[Fri Nov 16 01:49:54 2018] [notice] Apache/2.2.17 (Win32) configured -- resuming normal operations
+[Fri Nov 16 01:49:54 2018] [notice] Server built: Oct 18 2010 01:58:12
+[Fri Nov 16 01:49:54 2018] [notice] Parent: Created child process 15868
+Apache server shutdown initiated...
+Child 15868: Child process is running
+[Fri Nov 16 01:49:54 2018] [notice] Child 15868: Acquired the start mutex.
+[Fri Nov 16 01:49:54 2018] [notice] Child 15868: Starting 64 worker threads.
+[Fri Nov 16 01:49:54 2018] [notice] Child 15868: Starting thread to listen on port 2345.
+[Fri Nov 16 01:50:50 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Desktop Share/icons, referer: http://localhost:2345/
+[Fri Nov 16 01:50:50 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Desktop Share/error, referer: http://localhost:2345/
+[Fri Nov 16 01:50:50 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Desktop Share/icons, referer: http://localhost:2345/
+[Fri Nov 16 01:50:50 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Desktop Share/error, referer: http://localhost:2345/
+[Fri Nov 16 01:50:50 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Desktop Share/icons, referer: http://localhost:2345/
+[Fri Nov 16 01:50:50 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Desktop Share/error, referer: http://localhost:2345/
+[Fri Nov 16 01:50:50 2018] [error] [client 127.0.0.1] File does not exist: C:/Users/rpsnaik/Desktop/Desktop Share/apache2.0/htdocs/favicon.ico, referer: http://localhost:2345/
+[Fri Nov 16 01:50:50 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Desktop Share/error, referer: http://localhost:2345/
+[Fri Nov 16 02:05:01 2018] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Fri Nov 16 02:05:01 2018] [notice] Child 15868: Exit event signaled. Child process is ending.
+[Fri Nov 16 02:05:02 2018] [notice] Child 15868: Released the start mutex
+[Fri Nov 16 02:05:03 2018] [notice] Child 15868: All worker threads have exited.
+[Fri Nov 16 02:05:03 2018] [notice] Child 15868: Child process is exiting
+[Fri Nov 16 02:05:04 2018] [notice] Parent: Child process exited successfully.
+[Fri Nov 16 02:05:43 2018] [notice] Apache/2.2.17 (Win32) configured -- resuming normal operations
+[Fri Nov 16 02:05:43 2018] [notice] Server built: Oct 18 2010 01:58:12
+[Fri Nov 16 02:05:43 2018] [notice] Parent: Created child process 16676
+Apache server shutdown initiated...
+Child 16676: Child process is running
+[Fri Nov 16 02:05:43 2018] [notice] Child 16676: Acquired the start mutex.
+[Fri Nov 16 02:05:43 2018] [notice] Child 16676: Starting 64 worker threads.
+[Fri Nov 16 02:05:43 2018] [notice] Child 16676: Starting thread to listen on port 2345.
+[Fri Nov 16 02:06:37 2018] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Fri Nov 16 02:06:37 2018] [notice] Child 16676: Exit event signaled. Child process is ending.
+[Fri Nov 16 02:06:38 2018] [notice] Child 16676: Released the start mutex
+[Fri Nov 16 02:06:39 2018] [notice] Child 16676: All worker threads have exited.
+[Fri Nov 16 02:06:39 2018] [notice] Child 16676: Child process is exiting
+[Fri Nov 16 02:06:39 2018] [notice] Parent: Child process exited successfully.
+[Fri Nov 16 02:06:41 2018] [notice] Apache/2.2.17 (Win32) configured -- resuming normal operations
+[Fri Nov 16 02:06:41 2018] [notice] Server built: Oct 18 2010 01:58:12
+[Fri Nov 16 02:06:41 2018] [notice] Parent: Created child process 16656
+Apache server shutdown initiated...
+Child 16656: Child process is running
+[Fri Nov 16 02:06:41 2018] [notice] Child 16656: Acquired the start mutex.
+[Fri Nov 16 02:06:41 2018] [notice] Child 16656: Starting 64 worker threads.
+[Fri Nov 16 02:06:41 2018] [notice] Child 16656: Starting thread to listen on port 2345.
+[Fri Nov 16 02:06:52 2018] [crit] [client 127.0.0.1] configuration error:  couldn't perform authentication. AuthType not set!: /
+[Fri Nov 16 02:06:52 2018] [crit] [client 127.0.0.1] configuration error:  couldn't perform authentication. AuthType not set!: /error/HTTP_INTERNAL_SERVER_ERROR.html.var
+[Fri Nov 16 02:06:53 2018] [crit] [client 127.0.0.1] configuration error:  couldn't perform authentication. AuthType not set!: /
+[Fri Nov 16 02:06:53 2018] [crit] [client 127.0.0.1] configuration error:  couldn't perform authentication. AuthType not set!: /error/HTTP_INTERNAL_SERVER_ERROR.html.var
+[Fri Nov 16 02:08:00 2018] [crit] [client 127.0.0.1] configuration error:  couldn't perform authentication. AuthType not set!: /
+[Fri Nov 16 02:08:00 2018] [crit] [client 127.0.0.1] configuration error:  couldn't perform authentication. AuthType not set!: /error/HTTP_INTERNAL_SERVER_ERROR.html.var
+[Fri Nov 16 02:08:26 2018] [crit] [client 127.0.0.1] configuration error:  couldn't perform authentication. AuthType not set!: /
+[Fri Nov 16 02:08:26 2018] [crit] [client 127.0.0.1] configuration error:  couldn't perform authentication. AuthType not set!: /error/HTTP_INTERNAL_SERVER_ERROR.html.var
+[Fri Nov 16 02:08:26 2018] [crit] [client 127.0.0.1] configuration error:  couldn't perform authentication. AuthType not set!: /
+[Fri Nov 16 02:08:26 2018] [crit] [client 127.0.0.1] configuration error:  couldn't perform authentication. AuthType not set!: /error/HTTP_INTERNAL_SERVER_ERROR.html.var
+[Fri Nov 16 02:08:26 2018] [crit] [client 127.0.0.1] configuration error:  couldn't perform authentication. AuthType not set!: /
+[Fri Nov 16 02:08:26 2018] [crit] [client 127.0.0.1] configuration error:  couldn't perform authentication. AuthType not set!: /error/HTTP_INTERNAL_SERVER_ERROR.html.var
+[Fri Nov 16 02:10:38 2018] [crit] [client 127.0.0.1] configuration error:  couldn't perform authentication. AuthType not set!: /
+[Fri Nov 16 02:10:38 2018] [crit] [client 127.0.0.1] configuration error:  couldn't perform authentication. AuthType not set!: /error/HTTP_INTERNAL_SERVER_ERROR.html.var
+[Fri Nov 16 02:10:39 2018] [crit] [client 127.0.0.1] configuration error:  couldn't perform authentication. AuthType not set!: /
+[Fri Nov 16 02:10:39 2018] [crit] [client 127.0.0.1] configuration error:  couldn't perform authentication. AuthType not set!: /error/HTTP_INTERNAL_SERVER_ERROR.html.var
+[Fri Nov 16 02:10:39 2018] [crit] [client 127.0.0.1] configuration error:  couldn't perform authentication. AuthType not set!: /
+[Fri Nov 16 02:10:39 2018] [crit] [client 127.0.0.1] configuration error:  couldn't perform authentication. AuthType not set!: /error/HTTP_INTERNAL_SERVER_ERROR.html.var
+[Fri Nov 16 02:10:40 2018] [crit] [client 127.0.0.1] configuration error:  couldn't perform authentication. AuthType not set!: /
+[Fri Nov 16 02:10:40 2018] [crit] [client 127.0.0.1] configuration error:  couldn't perform authentication. AuthType not set!: /error/HTTP_INTERNAL_SERVER_ERROR.html.var
+[Fri Nov 16 02:10:40 2018] [crit] [client 127.0.0.1] configuration error:  couldn't perform authentication. AuthType not set!: /
+[Fri Nov 16 02:10:40 2018] [crit] [client 127.0.0.1] configuration error:  couldn't perform authentication. AuthType not set!: /error/HTTP_INTERNAL_SERVER_ERROR.html.var
+[Fri Nov 16 02:10:41 2018] [crit] [client 127.0.0.1] configuration error:  couldn't perform authentication. AuthType not set!: /
+[Fri Nov 16 02:10:41 2018] [crit] [client 127.0.0.1] configuration error:  couldn't perform authentication. AuthType not set!: /error/HTTP_INTERNAL_SERVER_ERROR.html.var
+[Fri Nov 16 02:10:41 2018] [crit] [client 127.0.0.1] configuration error:  couldn't perform authentication. AuthType not set!: /
+[Fri Nov 16 02:10:41 2018] [crit] [client 127.0.0.1] configuration error:  couldn't perform authentication. AuthType not set!: /error/HTTP_INTERNAL_SERVER_ERROR.html.var
+[Fri Nov 16 02:10:41 2018] [crit] [client 127.0.0.1] configuration error:  couldn't perform authentication. AuthType not set!: /
+[Fri Nov 16 02:10:41 2018] [crit] [client 127.0.0.1] configuration error:  couldn't perform authentication. AuthType not set!: /error/HTTP_INTERNAL_SERVER_ERROR.html.var
+[Fri Nov 16 02:10:41 2018] [crit] [client 127.0.0.1] configuration error:  couldn't perform authentication. AuthType not set!: /
+[Fri Nov 16 02:10:41 2018] [crit] [client 127.0.0.1] configuration error:  couldn't perform authentication. AuthType not set!: /error/HTTP_INTERNAL_SERVER_ERROR.html.var
+[Fri Nov 16 02:11:03 2018] [crit] [client 127.0.0.1] configuration error:  couldn't perform authentication. AuthType not set!: /
+[Fri Nov 16 02:11:03 2018] [crit] [client 127.0.0.1] configuration error:  couldn't perform authentication. AuthType not set!: /error/HTTP_INTERNAL_SERVER_ERROR.html.var
+[Fri Nov 16 02:11:03 2018] [crit] [client 127.0.0.1] configuration error:  couldn't perform authentication. AuthType not set!: /
+[Fri Nov 16 02:11:03 2018] [crit] [client 127.0.0.1] configuration error:  couldn't perform authentication. AuthType not set!: /error/HTTP_INTERNAL_SERVER_ERROR.html.var
+[Fri Nov 16 02:11:04 2018] [crit] [client 127.0.0.1] configuration error:  couldn't perform authentication. AuthType not set!: /
+[Fri Nov 16 02:11:04 2018] [crit] [client 127.0.0.1] configuration error:  couldn't perform authentication. AuthType not set!: /error/HTTP_INTERNAL_SERVER_ERROR.html.var
+[Fri Nov 16 02:11:04 2018] [crit] [client 127.0.0.1] configuration error:  couldn't perform authentication. AuthType not set!: /
+[Fri Nov 16 02:11:04 2018] [crit] [client 127.0.0.1] configuration error:  couldn't perform authentication. AuthType not set!: /error/HTTP_INTERNAL_SERVER_ERROR.html.var
+[Fri Nov 16 02:12:18 2018] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Fri Nov 16 02:12:18 2018] [notice] Child 16656: Exit event signaled. Child process is ending.
+[Fri Nov 16 02:12:19 2018] [notice] Child 16656: Released the start mutex
+[Fri Nov 16 02:12:20 2018] [notice] Child 16656: All worker threads have exited.
+[Fri Nov 16 02:12:20 2018] [notice] Child 16656: Child process is exiting
+[Fri Nov 16 02:12:20 2018] [notice] Parent: Child process exited successfully.
+[Fri Nov 16 02:17:01 2018] [notice] Apache/2.2.17 (Win32) configured -- resuming normal operations
+[Fri Nov 16 02:17:01 2018] [notice] Server built: Oct 18 2010 01:58:12
+[Fri Nov 16 02:17:01 2018] [notice] Parent: Created child process 16556
+Apache server shutdown initiated...
+Child 16556: Child process is running
+[Fri Nov 16 02:17:02 2018] [notice] Child 16556: Acquired the start mutex.
+[Fri Nov 16 02:17:02 2018] [notice] Child 16556: Starting 64 worker threads.
+[Fri Nov 16 02:17:02 2018] [notice] Child 16556: Starting thread to listen on port 2345.
+[Fri Nov 16 02:17:06 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Desktop Share/icons, referer: http://localhost:2345/
+[Fri Nov 16 02:17:06 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Desktop Share/icons, referer: http://localhost:2345/
+[Fri Nov 16 02:17:06 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Desktop Share/error, referer: http://localhost:2345/
+[Fri Nov 16 02:17:06 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Desktop Share/error, referer: http://localhost:2345/
+[Fri Nov 16 02:17:06 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Desktop Share/icons, referer: http://localhost:2345/
+[Fri Nov 16 02:17:06 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Desktop Share/error, referer: http://localhost:2345/
+[Fri Nov 16 02:17:29 2018] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Fri Nov 16 02:17:29 2018] [notice] Child 16556: Exit event signaled. Child process is ending.
+[Fri Nov 16 02:17:30 2018] [notice] Child 16556: Released the start mutex
+[Fri Nov 16 02:17:31 2018] [notice] Child 16556: All worker threads have exited.
+[Fri Nov 16 02:17:31 2018] [notice] Child 16556: Child process is exiting
+[Fri Nov 16 02:17:32 2018] [notice] Parent: Child process exited successfully.
+[Fri Nov 16 02:17:38 2018] [notice] Apache/2.2.17 (Win32) configured -- resuming normal operations
+[Fri Nov 16 02:17:38 2018] [notice] Server built: Oct 18 2010 01:58:12
+[Fri Nov 16 02:17:38 2018] [notice] Parent: Created child process 18212
+Apache server shutdown initiated...
+Child 18212: Child process is running
+[Fri Nov 16 02:17:38 2018] [notice] Child 18212: Acquired the start mutex.
+[Fri Nov 16 02:17:38 2018] [notice] Child 18212: Starting 64 worker threads.
+[Fri Nov 16 02:17:38 2018] [notice] Child 18212: Starting thread to listen on port 2345.
+[Fri Nov 16 02:19:44 2018] [crit] [client 192.168.43.1] configuration error:  couldn't perform authentication. AuthType not set!: /
+[Fri Nov 16 02:19:44 2018] [crit] [client 192.168.43.1] configuration error:  couldn't perform authentication. AuthType not set!: /error/HTTP_INTERNAL_SERVER_ERROR.html.var
+[Fri Nov 16 02:19:44 2018] [crit] [client 192.168.43.1] configuration error:  couldn't perform authentication. AuthType not set!: /favicon.ico, referer: http://192.168.43.63:2345/
+[Fri Nov 16 02:19:44 2018] [crit] [client 192.168.43.1] configuration error:  couldn't perform authentication. AuthType not set!: /error/HTTP_INTERNAL_SERVER_ERROR.html.var, referer: http://192.168.43.63:2345/
+[Fri Nov 16 02:19:52 2018] [crit] [client 127.0.0.1] configuration error:  couldn't perform authentication. AuthType not set!: /
+[Fri Nov 16 02:19:52 2018] [crit] [client 127.0.0.1] configuration error:  couldn't perform authentication. AuthType not set!: /error/HTTP_INTERNAL_SERVER_ERROR.html.var
+[Fri Nov 16 02:20:07 2018] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Fri Nov 16 02:20:07 2018] [notice] Child 18212: Exit event signaled. Child process is ending.
+[Fri Nov 16 02:20:08 2018] [notice] Child 18212: Released the start mutex
+[Fri Nov 16 02:20:09 2018] [notice] Child 18212: All worker threads have exited.
+[Fri Nov 16 02:20:09 2018] [notice] Child 18212: Child process is exiting
+[Fri Nov 16 02:20:09 2018] [notice] Parent: Child process exited successfully.
+[Fri Nov 16 02:20:13 2018] [notice] Apache/2.2.17 (Win32) configured -- resuming normal operations
+[Fri Nov 16 02:20:13 2018] [notice] Server built: Oct 18 2010 01:58:12
+[Fri Nov 16 02:20:13 2018] [notice] Parent: Created child process 10732
+Apache server shutdown initiated...
+Child 10732: Child process is running
+[Fri Nov 16 02:20:13 2018] [notice] Child 10732: Acquired the start mutex.
+[Fri Nov 16 02:20:13 2018] [notice] Child 10732: Starting 64 worker threads.
+[Fri Nov 16 02:20:13 2018] [notice] Child 10732: Starting thread to listen on port 2345.
+[Fri Nov 16 02:20:15 2018] [crit] [client 192.168.43.1] configuration error:  couldn't perform authentication. AuthType not set!: /
+[Fri Nov 16 02:20:15 2018] [crit] [client 192.168.43.1] configuration error:  couldn't perform authentication. AuthType not set!: /error/HTTP_INTERNAL_SERVER_ERROR.html.var
+[Fri Nov 16 02:20:15 2018] [crit] [client 192.168.43.1] configuration error:  couldn't perform authentication. AuthType not set!: /favicon.ico, referer: http://192.168.43.63:2345/
+[Fri Nov 16 02:20:15 2018] [crit] [client 192.168.43.1] configuration error:  couldn't perform authentication. AuthType not set!: /error/HTTP_INTERNAL_SERVER_ERROR.html.var, referer: http://192.168.43.63:2345/
+[Fri Nov 16 02:20:16 2018] [crit] [client 192.168.43.1] configuration error:  couldn't perform authentication. AuthType not set!: /
+[Fri Nov 16 02:20:16 2018] [crit] [client 192.168.43.1] configuration error:  couldn't perform authentication. AuthType not set!: /error/HTTP_INTERNAL_SERVER_ERROR.html.var
+[Fri Nov 16 02:20:16 2018] [crit] [client 192.168.43.1] configuration error:  couldn't perform authentication. AuthType not set!: /favicon.ico, referer: http://192.168.43.63:2345/
+[Fri Nov 16 02:20:16 2018] [crit] [client 192.168.43.1] configuration error:  couldn't perform authentication. AuthType not set!: /error/HTTP_INTERNAL_SERVER_ERROR.html.var, referer: http://192.168.43.63:2345/
+[Fri Nov 16 02:20:20 2018] [crit] [client 127.0.0.1] configuration error:  couldn't perform authentication. AuthType not set!: /
+[Fri Nov 16 02:20:20 2018] [crit] [client 127.0.0.1] configuration error:  couldn't perform authentication. AuthType not set!: /error/HTTP_INTERNAL_SERVER_ERROR.html.var
+[Fri Nov 16 02:20:21 2018] [crit] [client 127.0.0.1] configuration error:  couldn't perform authentication. AuthType not set!: /
+[Fri Nov 16 02:20:21 2018] [crit] [client 127.0.0.1] configuration error:  couldn't perform authentication. AuthType not set!: /error/HTTP_INTERNAL_SERVER_ERROR.html.var
+[Fri Nov 16 02:20:21 2018] [crit] [client 127.0.0.1] configuration error:  couldn't perform authentication. AuthType not set!: /
+[Fri Nov 16 02:20:21 2018] [crit] [client 127.0.0.1] configuration error:  couldn't perform authentication. AuthType not set!: /error/HTTP_INTERNAL_SERVER_ERROR.html.var
+[Fri Nov 16 02:20:21 2018] [crit] [client 127.0.0.1] configuration error:  couldn't perform authentication. AuthType not set!: /
+[Fri Nov 16 02:20:21 2018] [crit] [client 127.0.0.1] configuration error:  couldn't perform authentication. AuthType not set!: /error/HTTP_INTERNAL_SERVER_ERROR.html.var
+[Fri Nov 16 02:20:30 2018] [crit] [client 192.168.43.1] configuration error:  couldn't perform authentication. AuthType not set!: /
+[Fri Nov 16 02:20:30 2018] [crit] [client 192.168.43.1] configuration error:  couldn't perform authentication. AuthType not set!: /error/HTTP_INTERNAL_SERVER_ERROR.html.var
+[Fri Nov 16 02:20:30 2018] [crit] [client 192.168.43.1] configuration error:  couldn't perform authentication. AuthType not set!: /favicon.ico, referer: http://192.168.43.63:2345/
+[Fri Nov 16 02:20:30 2018] [crit] [client 192.168.43.1] configuration error:  couldn't perform authentication. AuthType not set!: /error/HTTP_INTERNAL_SERVER_ERROR.html.var, referer: http://192.168.43.63:2345/
+[Fri Nov 16 02:20:31 2018] [crit] [client 192.168.43.1] configuration error:  couldn't perform authentication. AuthType not set!: /
+[Fri Nov 16 02:20:31 2018] [crit] [client 192.168.43.1] configuration error:  couldn't perform authentication. AuthType not set!: /error/HTTP_INTERNAL_SERVER_ERROR.html.var
+[Fri Nov 16 02:20:31 2018] [crit] [client 192.168.43.1] configuration error:  couldn't perform authentication. AuthType not set!: /favicon.ico, referer: http://192.168.43.63:2345/
+[Fri Nov 16 02:20:31 2018] [crit] [client 192.168.43.1] configuration error:  couldn't perform authentication. AuthType not set!: /error/HTTP_INTERNAL_SERVER_ERROR.html.var, referer: http://192.168.43.63:2345/
+[Fri Nov 16 02:20:34 2018] [crit] [client 127.0.0.1] configuration error:  couldn't perform authentication. AuthType not set!: /
+[Fri Nov 16 02:20:34 2018] [crit] [client 127.0.0.1] configuration error:  couldn't perform authentication. AuthType not set!: /error/HTTP_INTERNAL_SERVER_ERROR.html.var
+[Fri Nov 16 02:20:35 2018] [crit] [client 127.0.0.1] configuration error:  couldn't perform authentication. AuthType not set!: /
+[Fri Nov 16 02:20:35 2018] [crit] [client 127.0.0.1] configuration error:  couldn't perform authentication. AuthType not set!: /error/HTTP_INTERNAL_SERVER_ERROR.html.var
+[Fri Nov 16 02:20:56 2018] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Fri Nov 16 02:20:56 2018] [notice] Child 10732: Exit event signaled. Child process is ending.
+[Fri Nov 16 02:20:57 2018] [notice] Child 10732: Released the start mutex
+[Fri Nov 16 02:20:58 2018] [notice] Child 10732: All worker threads have exited.
+[Fri Nov 16 02:20:58 2018] [notice] Child 10732: Child process is exiting
+[Fri Nov 16 02:20:58 2018] [notice] Parent: Child process exited successfully.
+[Fri Nov 16 02:21:16 2018] [notice] Apache/2.2.17 (Win32) configured -- resuming normal operations
+[Fri Nov 16 02:21:16 2018] [notice] Server built: Oct 18 2010 01:58:12
+[Fri Nov 16 02:21:16 2018] [notice] Parent: Created child process 8484
+Apache server interrupted...
+otice] Child 8484: Child process is running
+[Fri Nov 16 02:21:16 2018] [notice] Child 8484: Acquired the start mutex.
+[Fri Nov 16 02:21:16 2018] [notice] Child 8484: Starting 64 worker threads.
+[Fri Nov 16 02:21:16 2018] [notice] Child 8484: Starting thread to listen on port 2345.
+[Fri Nov 16 02:21:19 2018] [crit] [client 192.168.43.1] configuration error:  couldn't perform authentication. AuthType not set!: /
+[Fri Nov 16 02:21:19 2018] [crit] [client 192.168.43.1] configuration error:  couldn't perform authentication. AuthType not set!: /error/HTTP_INTERNAL_SERVER_ERROR.html.var
+[Fri Nov 16 02:21:19 2018] [crit] [client 192.168.43.1] configuration error:  couldn't perform authentication. AuthType not set!: /favicon.ico, referer: http://192.168.43.63:2345/
+[Fri Nov 16 02:21:19 2018] [crit] [client 192.168.43.1] configuration error:  couldn't perform authentication. AuthType not set!: /error/HTTP_INTERNAL_SERVER_ERROR.html.var, referer: http://192.168.43.63:2345/
+[Fri Nov 16 02:21:25 2018] [crit] [client 127.0.0.1] configuration error:  couldn't perform authentication. AuthType not set!: /
+[Fri Nov 16 02:21:25 2018] [crit] [client 127.0.0.1] configuration error:  couldn't perform authentication. AuthType not set!: /error/HTTP_INTERNAL_SERVER_ERROR.html.var
+[Fri Nov 16 02:21:26 2018] [crit] [client 127.0.0.1] configuration error:  couldn't perform authentication. AuthType not set!: /
+[Fri Nov 16 02:21:26 2018] [crit] [client 127.0.0.1] configuration error:  couldn't perform authentication. AuthType not set!: /error/HTTP_INTERNAL_SERVER_ERROR.html.var
+[Fri Nov 16 02:21:26 2018] [crit] [client 127.0.0.1] configuration error:  couldn't perform authentication. AuthType not set!: /
+[Fri Nov 16 02:21:26 2018] [crit] [client 127.0.0.1] configuration error:  couldn't perform authentication. AuthType not set!: /error/HTTP_INTERNAL_SERVER_ERROR.html.var
+[Fri Nov 16 02:21:59 2018] [notice] Parent: Received shutdown signal -- Shutting down the server.
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server shutdown initiated...
+[Fri Nov 16 02:22:33 2018] [notice] Child 8484: Waiting 270 more seconds for 1 worker threads to finish.
+[Fri Nov 16 02:22:44 2018] [warn] pid file C:/Users/rpsnaik/Desktop/Desktop Share/apache2.0/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Nov 16 02:22:44 2018] [notice] Apache/2.2.17 (Win32) configured -- resuming normal operations
+[Fri Nov 16 02:22:44 2018] [notice] Server built: Oct 18 2010 01:58:12
+[Fri Nov 16 02:22:44 2018] [notice] Parent: Created child process 12848
+Apache server interrupted...
+otice] Child 12848: Child process is running
+[Fri Nov 16 02:22:44 2018] [notice] Child 12848: Acquired the start mutex.
+[Fri Nov 16 02:22:44 2018] [notice] Child 12848: Starting 64 worker threads.
+[Fri Nov 16 02:22:44 2018] [notice] Child 12848: Starting thread to listen on port 2345.
+[Fri Nov 16 02:22:49 2018] [crit] [client 192.168.43.1] configuration error:  couldn't perform authentication. AuthType not set!: /
+[Fri Nov 16 02:22:49 2018] [notice] Child 8484: All worker threads have exited.
+[Fri Nov 16 02:22:49 2018] [notice] Child 8484: Child process is exiting
+[Fri Nov 16 02:22:49 2018] [crit] [client 192.168.43.1] configuration error:  couldn't perform authentication. AuthType not set!: /error/HTTP_INTERNAL_SERVER_ERROR.html.var
+[Fri Nov 16 02:22:49 2018] [crit] [client 192.168.43.1] configuration error:  couldn't perform authentication. AuthType not set!: /favicon.ico, referer: http://192.168.43.63:2345/
+[Fri Nov 16 02:22:49 2018] [crit] [client 192.168.43.1] configuration error:  couldn't perform authentication. AuthType not set!: /error/HTTP_INTERNAL_SERVER_ERROR.html.var, referer: http://192.168.43.63:2345/
+[Fri Nov 16 02:22:50 2018] [crit] [client 192.168.43.1] configuration error:  couldn't perform authentication. AuthType not set!: /
+[Fri Nov 16 02:22:50 2018] [crit] [client 192.168.43.1] configuration error:  couldn't perform authentication. AuthType not set!: /error/HTTP_INTERNAL_SERVER_ERROR.html.var
+[Fri Nov 16 02:22:50 2018] [crit] [client 192.168.43.1] configuration error:  couldn't perform authentication. AuthType not set!: /favicon.ico, referer: http://192.168.43.63:2345/
+[Fri Nov 16 02:22:50 2018] [crit] [client 192.168.43.1] configuration error:  couldn't perform authentication. AuthType not set!: /error/HTTP_INTERNAL_SERVER_ERROR.html.var, referer: http://192.168.43.63:2345/
+[Fri Nov 16 02:23:47 2018] [notice] Parent: Received shutdown signal -- Shutting down the server.
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server shutdown initiated...
+Child 12848: Released the start mutex
+[Fri Nov 16 02:23:49 2018] [notice] Child 12848: All worker threads have exited.
+[Fri Nov 16 02:23:49 2018] [notice] Child 12848: Child process is exiting
+[Fri Nov 16 02:23:49 2018] [notice] Parent: Child process exited successfully.
+[Fri Nov 16 02:24:29 2018] [notice] Apache/2.2.17 (Win32) configured -- resuming normal operations
+[Fri Nov 16 02:24:29 2018] [notice] Server built: Oct 18 2010 01:58:12
+[Fri Nov 16 02:24:29 2018] [notice] Parent: Created child process 15660
+Apache server shutdown initiated...
+Child 15660: Child process is running
+[Fri Nov 16 02:24:29 2018] [notice] Child 15660: Acquired the start mutex.
+[Fri Nov 16 02:24:29 2018] [notice] Child 15660: Starting 64 worker threads.
+[Fri Nov 16 02:24:29 2018] [notice] Child 15660: Starting thread to listen on port 2345.
+[Fri Nov 16 02:24:34 2018] [error] [client 192.168.43.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Desktop Share/icons, referer: http://192.168.43.63:2345/
+[Fri Nov 16 02:24:34 2018] [error] [client 192.168.43.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Desktop Share/error, referer: http://192.168.43.63:2345/
+[Fri Nov 16 02:24:34 2018] [error] [client 192.168.43.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Desktop Share/icons, referer: http://192.168.43.63:2345/
+[Fri Nov 16 02:24:34 2018] [error] [client 192.168.43.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Desktop Share/error, referer: http://192.168.43.63:2345/
+[Fri Nov 16 02:24:34 2018] [error] [client 192.168.43.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Desktop Share/icons, referer: http://192.168.43.63:2345/
+[Fri Nov 16 02:24:34 2018] [error] [client 192.168.43.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Desktop Share/error, referer: http://192.168.43.63:2345/
+[Fri Nov 16 02:24:35 2018] [error] [client 192.168.43.1] File does not exist: C:/Users/rpsnaik/Desktop/Desktop Share/apache2.0/htdocs/favicon.ico, referer: http://192.168.43.63:2345/
+[Fri Nov 16 02:24:35 2018] [error] [client 192.168.43.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Desktop Share/error, referer: http://192.168.43.63:2345/
+[Fri Nov 16 02:25:03 2018] [error] [client 192.168.43.202] client denied by server configuration: C:/Users/rpsnaik/Desktop/Desktop Share/icons, referer: http://192.168.43.63:2345/
+[Fri Nov 16 02:25:03 2018] [error] [client 192.168.43.202] client denied by server configuration: C:/Users/rpsnaik/Desktop/Desktop Share/icons, referer: http://192.168.43.63:2345/
+[Fri Nov 16 02:25:03 2018] [error] [client 192.168.43.202] client denied by server configuration: C:/Users/rpsnaik/Desktop/Desktop Share/error, referer: http://192.168.43.63:2345/
+[Fri Nov 16 02:25:03 2018] [error] [client 192.168.43.202] client denied by server configuration: C:/Users/rpsnaik/Desktop/Desktop Share/error, referer: http://192.168.43.63:2345/
+[Fri Nov 16 02:25:03 2018] [error] [client 192.168.43.202] client denied by server configuration: C:/Users/rpsnaik/Desktop/Desktop Share/icons, referer: http://192.168.43.63:2345/
+[Fri Nov 16 02:25:03 2018] [error] [client 192.168.43.202] client denied by server configuration: C:/Users/rpsnaik/Desktop/Desktop Share/error, referer: http://192.168.43.63:2345/
+[Fri Nov 16 02:25:03 2018] [error] [client 192.168.43.202] File does not exist: C:/Users/rpsnaik/Desktop/Desktop Share/apache2.0/htdocs/favicon.ico, referer: http://192.168.43.63:2345/
+[Fri Nov 16 02:25:03 2018] [error] [client 192.168.43.202] client denied by server configuration: C:/Users/rpsnaik/Desktop/Desktop Share/error, referer: http://192.168.43.63:2345/
+[Fri Nov 16 02:25:25 2018] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Fri Nov 16 02:25:25 2018] [notice] Child 15660: Exit event signaled. Child process is ending.
+[Fri Nov 16 02:25:26 2018] [notice] Child 15660: Released the start mutex
+[Fri Nov 16 02:25:27 2018] [notice] Child 15660: All worker threads have exited.
+[Fri Nov 16 02:25:27 2018] [notice] Child 15660: Child process is exiting
+[Fri Nov 16 02:25:27 2018] [notice] Parent: Child process exited successfully.
+[Fri Nov 16 09:11:13 2018] [notice] Apache/2.2.17 (Win32) PHP/5.3.10 configured -- resuming normal operations
+[Fri Nov 16 09:11:13 2018] [notice] Server built: Oct 18 2010 01:58:12
+[Fri Nov 16 09:11:13 2018] [notice] Parent: Created child process 9800
+Apache server shutdown initiated...
+Child 9800: Child process is running
+[Fri Nov 16 09:11:14 2018] [notice] Child 9800: Acquired the start mutex.
+[Fri Nov 16 09:11:14 2018] [notice] Child 9800: Starting 64 worker threads.
+[Fri Nov 16 09:11:14 2018] [notice] Child 9800: Starting thread to listen on port 2345.
+[Fri Nov 16 09:11:28 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/icons, referer: http://localhost:2345/
+[Fri Nov 16 09:11:28 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/error, referer: http://localhost:2345/
+[Fri Nov 16 09:11:28 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/icons, referer: http://localhost:2345/
+[Fri Nov 16 09:11:28 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/error, referer: http://localhost:2345/
+[Fri Nov 16 09:11:30 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/icons, referer: http://localhost:2345/
+[Fri Nov 16 09:11:30 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/icons, referer: http://localhost:2345/
+[Fri Nov 16 09:11:30 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/error, referer: http://localhost:2345/
+[Fri Nov 16 09:11:30 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/error, referer: http://localhost:2345/
+[Fri Nov 16 09:11:30 2018] [error] [client 127.0.0.1] File does not exist: C:/Users/rpsnaik/Desktop/Testing1/apache2.0/htdocs/favicon.ico, referer: http://localhost:2345/
+[Fri Nov 16 09:11:30 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/error, referer: http://localhost:2345/
+[Fri Nov 16 09:11:38 2018] [error] [client 127.0.0.1] File does not exist: C:/Users/rpsnaik/Desktop/Testing1/apache2.0/htdocs/share, referer: http://localhost:2345/index.php
+[Fri Nov 16 09:11:38 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/error, referer: http://localhost:2345/index.php
+[Fri Nov 16 09:11:47 2018] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Fri Nov 16 09:11:47 2018] [notice] Child 9800: Exit event signaled. Child process is ending.
+[Fri Nov 16 09:11:48 2018] [notice] Child 9800: Released the start mutex
+[Fri Nov 16 09:12:22 2018] [notice] Child 9800: Waiting 270 more seconds for 2 worker threads to finish.
+[Fri Nov 16 09:12:54 2018] [notice] Child 9800: Waiting 240 more seconds for 2 worker threads to finish.
+[Fri Nov 16 09:13:27 2018] [notice] Child 9800: Waiting 210 more seconds for 2 worker threads to finish.
+[Fri Nov 16 09:14:01 2018] [notice] Child 9800: Waiting 180 more seconds for 2 worker threads to finish.
+[Fri Nov 16 09:14:10 2018] [notice] Child 9800: All worker threads have exited.
+[Fri Nov 16 09:14:10 2018] [notice] Child 9800: Child process is exiting
+[Fri Nov 16 09:15:28 2018] [warn] pid file C:/Users/rpsnaik/Desktop/Testing1/apache2.0/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Nov 16 09:15:28 2018] [notice] Apache/2.2.17 (Win32) PHP/5.3.10 configured -- resuming normal operations
+[Fri Nov 16 09:15:28 2018] [notice] Server built: Oct 18 2010 01:58:12
+[Fri Nov 16 09:15:29 2018] [notice] Parent: Created child process 8952
+Apache server shutdown initiated...
+Child 8952: Child process is running
+[Fri Nov 16 09:15:29 2018] [notice] Child 8952: Acquired the start mutex.
+[Fri Nov 16 09:15:29 2018] [notice] Child 8952: Starting 64 worker threads.
+[Fri Nov 16 09:15:29 2018] [notice] Child 8952: Starting thread to listen on port 2345.
+[Fri Nov 16 09:16:37 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/icons, referer: http://localhost:2345/
+[Fri Nov 16 09:16:37 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/icons, referer: http://localhost:2345/
+[Fri Nov 16 09:16:37 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/error, referer: http://localhost:2345/
+[Fri Nov 16 09:16:37 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/error, referer: http://localhost:2345/
+[Fri Nov 16 09:16:37 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/icons, referer: http://localhost:2345/
+[Fri Nov 16 09:16:37 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/error, referer: http://localhost:2345/
+[Fri Nov 16 09:16:45 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/icons, referer: http://localhost:2345/
+[Fri Nov 16 09:16:45 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/icons, referer: http://localhost:2345/
+[Fri Nov 16 09:16:45 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/error, referer: http://localhost:2345/
+[Fri Nov 16 09:16:45 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/error, referer: http://localhost:2345/
+[Fri Nov 16 09:16:45 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/icons, referer: http://localhost:2345/
+[Fri Nov 16 09:16:45 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/error, referer: http://localhost:2345/
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+[Fri Nov 16 09:17:50 2018] [error] [client 127.0.0.1] File does not exist: C:/Users/rpsnaik/Desktop/Testing1/apache2.0/htdocs/share/function.date, referer: http://localhost:2345/share/get.php
+[Fri Nov 16 09:17:50 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/error, referer: http://localhost:2345/share/get.php
+[Fri Nov 16 09:18:10 2018] [error] [client 127.0.0.1] File does not exist: C:/Users/rpsnaik/Desktop/Testing1/apache2.0/htdocs/files
+[Fri Nov 16 09:18:10 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/error
+[Fri Nov 16 09:19:19 2018] [error] [client 192.168.43.201] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/icons, referer: http://192.168.43.63:2345/
+[Fri Nov 16 09:19:19 2018] [error] [client 192.168.43.201] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/error, referer: http://192.168.43.63:2345/
+[Fri Nov 16 09:19:19 2018] [error] [client 192.168.43.201] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/icons, referer: http://192.168.43.63:2345/
+[Fri Nov 16 09:19:19 2018] [error] [client 192.168.43.201] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/error, referer: http://192.168.43.63:2345/
+[Fri Nov 16 09:19:19 2018] [error] [client 192.168.43.201] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/icons, referer: http://192.168.43.63:2345/
+[Fri Nov 16 09:19:19 2018] [error] [client 192.168.43.201] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/error, referer: http://192.168.43.63:2345/
+[Fri Nov 16 09:19:19 2018] [error] [client 192.168.43.201] File does not exist: C:/Users/rpsnaik/Desktop/Testing1/apache2.0/htdocs/favicon.ico, referer: http://192.168.43.63:2345/
+[Fri Nov 16 09:19:19 2018] [error] [client 192.168.43.201] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/error, referer: http://192.168.43.63:2345/
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+[Fri Nov 16 09:19:28 2018] [error] [client 192.168.43.201] File does not exist: C:/Users/rpsnaik/Desktop/Testing1/apache2.0/htdocs/files
+[Fri Nov 16 09:19:28 2018] [error] [client 192.168.43.201] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/error
+[Fri Nov 16 09:19:28 2018] [error] [client 192.168.43.201] File does not exist: C:/Users/rpsnaik/Desktop/Testing1/apache2.0/htdocs/files
+[Fri Nov 16 09:19:28 2018] [error] [client 192.168.43.201] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/error
+[Fri Nov 16 09:19:31 2018] [error] [client 192.168.43.201] File does not exist: C:/Users/rpsnaik/Desktop/Testing1/apache2.0/htdocs/files
+[Fri Nov 16 09:19:31 2018] [error] [client 192.168.43.201] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/error
+[Fri Nov 16 09:19:33 2018] [error] [client 192.168.43.201] File does not exist: C:/Users/rpsnaik/Desktop/Testing1/apache2.0/htdocs/files
+[Fri Nov 16 09:19:33 2018] [error] [client 192.168.43.201] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/error
+[Fri Nov 16 09:19:49 2018] [error] [client 192.168.43.201] File does not exist: C:/Users/rpsnaik/Desktop/Testing1/apache2.0/htdocs/files
+[Fri Nov 16 09:19:49 2018] [error] [client 192.168.43.201] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/error
+[Fri Nov 16 09:19:49 2018] [error] [client 192.168.43.201] File does not exist: C:/Users/rpsnaik/Desktop/Testing1/apache2.0/htdocs/files
+[Fri Nov 16 09:19:49 2018] [error] [client 192.168.43.201] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/error
+[Fri Nov 16 09:19:51 2018] [error] [client 192.168.43.201] File does not exist: C:/Users/rpsnaik/Desktop/Testing1/apache2.0/htdocs/files
+[Fri Nov 16 09:19:51 2018] [error] [client 192.168.43.201] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/error
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+[Fri Nov 16 09:22:57 2018] [error] [client 192.168.43.201] File does not exist: C:/Users/rpsnaik/Desktop/Testing1/apache2.0/htdocs/files
+[Fri Nov 16 09:22:57 2018] [error] [client 192.168.43.201] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/error
+[Fri Nov 16 09:22:57 2018] [error] [client 192.168.43.201] File does not exist: C:/Users/rpsnaik/Desktop/Testing1/apache2.0/htdocs/files
+[Fri Nov 16 09:22:57 2018] [error] [client 192.168.43.201] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/error
+[Fri Nov 16 09:22:59 2018] [error] [client 192.168.43.201] File does not exist: C:/Users/rpsnaik/Desktop/Testing1/apache2.0/htdocs/files
+[Fri Nov 16 09:22:59 2018] [error] [client 192.168.43.201] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/error
+[Fri Nov 16 09:23:02 2018] [error] [client 192.168.43.201] File does not exist: C:/Users/rpsnaik/Desktop/Testing1/apache2.0/htdocs/files
+[Fri Nov 16 09:23:02 2018] [error] [client 192.168.43.201] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/error
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+[Fri Nov 16 09:25:19 2018] [error] [client 127.0.0.1] File does not exist: C:/Users/rpsnaik/Desktop/Testing1/apache2.0/htdocs/files/files
+[Fri Nov 16 09:25:19 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/error
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+[Fri Nov 16 09:26:51 2018] [error] [client 192.168.43.63] Invalid method in request \x16\x03\x01\x02
+[Fri Nov 16 09:26:51 2018] [error] [client 192.168.43.63] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/error
+[Fri Nov 16 09:26:51 2018] [error] [client 192.168.43.63] Invalid method in request \x16\x03\x01\x02
+[Fri Nov 16 09:26:51 2018] [error] [client 192.168.43.63] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/error
+[Fri Nov 16 09:26:51 2018] [error] [client 192.168.43.63] Invalid method in request \x16\x03\x01
+[Fri Nov 16 09:26:51 2018] [error] [client 192.168.43.63] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/error
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+[Fri Nov 16 09:29:26 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/icons, referer: http://localhost:2345/
+[Fri Nov 16 09:29:26 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/icons, referer: http://localhost:2345/
+[Fri Nov 16 09:29:26 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/error, referer: http://localhost:2345/
+[Fri Nov 16 09:29:26 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/error, referer: http://localhost:2345/
+[Fri Nov 16 09:29:26 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/icons, referer: http://localhost:2345/
+[Fri Nov 16 09:29:26 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/error, referer: http://localhost:2345/
+[Fri Nov 16 09:30:34 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/icons, referer: http://localhost:2345/
+[Fri Nov 16 09:30:34 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/icons, referer: http://localhost:2345/
+[Fri Nov 16 09:30:34 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/error, referer: http://localhost:2345/
+[Fri Nov 16 09:30:34 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/error, referer: http://localhost:2345/
+[Fri Nov 16 09:30:34 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/icons, referer: http://localhost:2345/
+[Fri Nov 16 09:30:34 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/error, referer: http://localhost:2345/
+[Fri Nov 16 09:30:36 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/icons, referer: http://localhost:2345/
+[Fri Nov 16 09:30:36 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/icons, referer: http://localhost:2345/
+[Fri Nov 16 09:30:36 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/error, referer: http://localhost:2345/
+[Fri Nov 16 09:30:36 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/error, referer: http://localhost:2345/
+[Fri Nov 16 09:30:36 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/icons, referer: http://localhost:2345/
+[Fri Nov 16 09:30:36 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/error, referer: http://localhost:2345/
+[Fri Nov 16 09:30:36 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/icons, referer: http://localhost:2345/
+[Fri Nov 16 09:30:36 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/icons, referer: http://localhost:2345/
+[Fri Nov 16 09:30:36 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/error, referer: http://localhost:2345/
+[Fri Nov 16 09:30:36 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/error, referer: http://localhost:2345/
+[Fri Nov 16 09:30:36 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/icons, referer: http://localhost:2345/
+[Fri Nov 16 09:30:36 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/error, referer: http://localhost:2345/
+[Fri Nov 16 09:30:37 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/icons, referer: http://localhost:2345/
+[Fri Nov 16 09:30:37 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/icons, referer: http://localhost:2345/
+[Fri Nov 16 09:30:37 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/error, referer: http://localhost:2345/
+[Fri Nov 16 09:30:37 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/error, referer: http://localhost:2345/
+[Fri Nov 16 09:30:37 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/icons, referer: http://localhost:2345/
+[Fri Nov 16 09:30:37 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/error, referer: http://localhost:2345/
+[Fri Nov 16 09:30:37 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/icons, referer: http://localhost:2345/
+[Fri Nov 16 09:30:37 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/icons, referer: http://localhost:2345/
+[Fri Nov 16 09:30:37 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/error, referer: http://localhost:2345/
+[Fri Nov 16 09:30:37 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/error, referer: http://localhost:2345/
+[Fri Nov 16 09:30:37 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/icons, referer: http://localhost:2345/
+[Fri Nov 16 09:30:37 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/error, referer: http://localhost:2345/
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+'sudo' is not recognized as an internal or external command,
+operable program or batch file.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+'sudo' is not recognized as an internal or external command,
+operable program or batch file.
+The process tried to write to a nonexistent pipe.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+'sudo' is not recognized as an internal or external command,
+operable program or batch file.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+[Fri Nov 16 10:12:03 2018] [error] [client 127.0.0.1] script 'C:/Users/rpsnaik/Desktop/Testing1/apache2.0/htdocs/share/validate.php' not found or unable to stat, referer: http://localhost:2345/share/get.php
+[Fri Nov 16 10:12:03 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/error, referer: http://localhost:2345/share/get.php
+[Fri Nov 16 10:12:56 2018] [error] [client 127.0.0.1] script 'C:/Users/rpsnaik/Desktop/Testing1/apache2.0/htdocs/share/validate.php' not found or unable to stat, referer: http://localhost:2345/share/get.php
+[Fri Nov 16 10:12:56 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/error, referer: http://localhost:2345/share/get.php
+[Fri Nov 16 10:21:16 2018] [error] [client 127.0.0.1] script 'C:/Users/rpsnaik/Desktop/Testing1/apache2.0/htdocs/recieve.php' not found or unable to stat, referer: http://localhost:2345/share/validate.php?ip=127.0.0.1
+[Fri Nov 16 10:21:16 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/error, referer: http://localhost:2345/share/validate.php?ip=127.0.0.1
+[Fri Nov 16 10:21:17 2018] [error] [client 127.0.0.1] File does not exist: C:/Users/rpsnaik/Desktop/Testing1/apache2.0/htdocs/favicon.ico, referer: http://127.0.0.1:2345/recieve.php
+[Fri Nov 16 10:21:17 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/error, referer: http://127.0.0.1:2345/recieve.php
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+[Fri Nov 16 10:26:39 2018] [error] [client 192.168.43.108] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/icons, referer: http://192.168.43.63:2345/
+[Fri Nov 16 10:26:39 2018] [error] [client 192.168.43.108] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/error, referer: http://192.168.43.63:2345/
+[Fri Nov 16 10:26:39 2018] [error] [client 192.168.43.108] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/icons, referer: http://192.168.43.63:2345/
+[Fri Nov 16 10:26:39 2018] [error] [client 192.168.43.108] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/error, referer: http://192.168.43.63:2345/
+[Fri Nov 16 10:26:39 2018] [error] [client 192.168.43.108] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/icons, referer: http://192.168.43.63:2345/
+[Fri Nov 16 10:26:39 2018] [error] [client 192.168.43.108] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/error, referer: http://192.168.43.63:2345/
+[Fri Nov 16 10:26:40 2018] [error] [client 192.168.43.108] File does not exist: C:/Users/rpsnaik/Desktop/Testing1/apache2.0/htdocs/favicon.ico, referer: http://192.168.43.63:2345/
+[Fri Nov 16 10:26:40 2018] [error] [client 192.168.43.108] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/error, referer: http://192.168.43.63:2345/
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+[Fri Nov 16 10:46:06 2018] [error] [client 192.168.43.201] File does not exist: C:/Users/rpsnaik/Desktop/Testing1/apache2.0/htdocs/files/files
+[Fri Nov 16 10:46:06 2018] [error] [client 192.168.43.201] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/error
+[Fri Nov 16 10:46:06 2018] [error] [client 192.168.43.201] File does not exist: C:/Users/rpsnaik/Desktop/Testing1/apache2.0/htdocs/files/files
+[Fri Nov 16 10:46:06 2018] [error] [client 192.168.43.201] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/error
+[Fri Nov 16 10:46:08 2018] [error] [client 192.168.43.201] File does not exist: C:/Users/rpsnaik/Desktop/Testing1/apache2.0/htdocs/files/files
+[Fri Nov 16 10:46:08 2018] [error] [client 192.168.43.201] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/error
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+[Fri Nov 16 10:46:29 2018] [error] [client 192.168.43.201] File does not exist: C:/Users/rpsnaik/Desktop/Testing1/apache2.0/htdocs/files/files
+[Fri Nov 16 10:46:29 2018] [error] [client 192.168.43.201] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/error
+[Fri Nov 16 10:46:29 2018] [error] [client 192.168.43.201] File does not exist: C:/Users/rpsnaik/Desktop/Testing1/apache2.0/htdocs/files/files
+[Fri Nov 16 10:46:29 2018] [error] [client 192.168.43.201] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/error
+[Fri Nov 16 10:46:32 2018] [error] [client 192.168.43.201] File does not exist: C:/Users/rpsnaik/Desktop/Testing1/apache2.0/htdocs/files/files
+[Fri Nov 16 10:46:32 2018] [error] [client 192.168.43.201] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/error
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+[Fri Nov 16 10:49:44 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/icons, referer: http://localhost:2345/
+[Fri Nov 16 10:49:44 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/icons, referer: http://localhost:2345/
+[Fri Nov 16 10:49:44 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/error, referer: http://localhost:2345/
+[Fri Nov 16 10:49:44 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/error, referer: http://localhost:2345/
+[Fri Nov 16 10:49:44 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/icons, referer: http://localhost:2345/
+[Fri Nov 16 10:49:44 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/error, referer: http://localhost:2345/
+[Fri Nov 16 10:50:03 2018] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Fri Nov 16 10:50:03 2018] [notice] Child 8952: Exit event signaled. Child process is ending.
+[Fri Nov 16 10:50:04 2018] [notice] Child 8952: Released the start mutex
+[Fri Nov 16 10:50:05 2018] [notice] Child 8952: All worker threads have exited.
+[Fri Nov 16 10:50:05 2018] [notice] Child 8952: Child process is exiting
+[Fri Nov 16 10:50:06 2018] [notice] Parent: Child process exited successfully.
+[Fri Nov 16 10:50:25 2018] [notice] Apache/2.2.17 (Win32) PHP/5.3.10 configured -- resuming normal operations
+[Fri Nov 16 10:50:25 2018] [notice] Server built: Oct 18 2010 01:58:12
+[Fri Nov 16 10:50:25 2018] [notice] Parent: Created child process 9800
+Apache server shutdown initiated...
+Child 9800: Child process is running
+[Fri Nov 16 10:50:25 2018] [notice] Child 9800: Acquired the start mutex.
+[Fri Nov 16 10:50:25 2018] [notice] Child 9800: Starting 64 worker threads.
+[Fri Nov 16 10:50:25 2018] [notice] Child 9800: Starting thread to listen on port 2345.
+[Fri Nov 16 10:50:29 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/icons, referer: http://localhost:2345/
+[Fri Nov 16 10:50:29 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/icons, referer: http://localhost:2345/
+[Fri Nov 16 10:50:29 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/error, referer: http://localhost:2345/
+[Fri Nov 16 10:50:29 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/error, referer: http://localhost:2345/
+[Fri Nov 16 10:50:29 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/icons, referer: http://localhost:2345/
+[Fri Nov 16 10:50:29 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/error, referer: http://localhost:2345/
+[Fri Nov 16 10:50:29 2018] [error] [client 127.0.0.1] File does not exist: C:/Users/rpsnaik/Desktop/Testing1/apache2.0/htdocs/favicon.ico, referer: http://localhost:2345/
+[Fri Nov 16 10:50:29 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/error, referer: http://localhost:2345/
+[Fri Nov 16 10:50:39 2018] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Fri Nov 16 10:50:39 2018] [notice] Child 9800: Exit event signaled. Child process is ending.
+[Fri Nov 16 10:50:40 2018] [notice] Child 9800: Released the start mutex
+[Fri Nov 16 10:50:41 2018] [notice] Child 9800: All worker threads have exited.
+[Fri Nov 16 10:50:41 2018] [notice] Child 9800: Child process is exiting
+[Fri Nov 16 10:50:41 2018] [notice] Parent: Child process exited successfully.
+[Fri Nov 16 10:51:00 2018] [notice] Apache/2.2.17 (Win32) PHP/5.3.10 configured -- resuming normal operations
+[Fri Nov 16 10:51:00 2018] [notice] Server built: Oct 18 2010 01:58:12
+[Fri Nov 16 10:51:00 2018] [notice] Parent: Created child process 12144
+Apache server shutdown initiated...
+Child 12144: Child process is running
+[Fri Nov 16 10:51:00 2018] [notice] Child 12144: Acquired the start mutex.
+[Fri Nov 16 10:51:00 2018] [notice] Child 12144: Starting 64 worker threads.
+[Fri Nov 16 10:51:00 2018] [notice] Child 12144: Starting thread to listen on port 2345.
+[Fri Nov 16 10:51:03 2018] [error] [client 127.0.0.1] File does not exist: C:/Users/rpsnaik/Desktop/Testing1/apache2.0/htdocs/favicon.ico, referer: http://localhost:2345/index.php
+[Fri Nov 16 10:51:03 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/error, referer: http://localhost:2345/index.php
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+[Fri Nov 16 10:53:02 2018] [error] [client 192.168.43.63] File does not exist: C:/Users/rpsnaik/Desktop/Testing1/apache2.0/htdocs/favicon.ico, referer: http://192.168.43.63:2345/share/get.php?ip=192.168.43.63
+[Fri Nov 16 10:53:02 2018] [error] [client 192.168.43.63] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/error, referer: http://192.168.43.63:2345/share/get.php?ip=192.168.43.63
+[Fri Nov 16 10:53:12 2018] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Fri Nov 16 10:53:12 2018] [notice] Child 12144: Exit event signaled. Child process is ending.
+[Fri Nov 16 10:53:13 2018] [notice] Child 12144: Released the start mutex
+[Fri Nov 16 10:53:14 2018] [notice] Child 12144: All worker threads have exited.
+[Fri Nov 16 10:53:14 2018] [notice] Child 12144: Child process is exiting
+[Fri Nov 16 10:53:14 2018] [notice] Parent: Child process exited successfully.
+[Fri Nov 16 10:59:48 2018] [notice] Apache/2.2.17 (Win32) PHP/5.3.10 configured -- resuming normal operations
+[Fri Nov 16 10:59:48 2018] [notice] Server built: Oct 18 2010 01:58:12
+[Fri Nov 16 10:59:48 2018] [notice] Parent: Created child process 10044
+Apache server shutdown initiated...
+Child 10044: Child process is running
+[Fri Nov 16 10:59:49 2018] [notice] Child 10044: Acquired the start mutex.
+[Fri Nov 16 10:59:49 2018] [notice] Child 10044: Starting 64 worker threads.
+[Fri Nov 16 10:59:49 2018] [notice] Child 10044: Starting thread to listen on port 2345.
+[Fri Nov 16 10:59:49 2018] [error] [client 127.0.0.1] File does not exist: C:/Users/rpsnaik/Desktop/Testing1/apache2.0/htdocs/favicon.ico, referer: http://localhost:2345/index.php
+[Fri Nov 16 10:59:49 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/error, referer: http://localhost:2345/index.php
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+[Fri Nov 16 11:00:59 2018] [error] [client 192.168.43.63] File does not exist: C:/Users/rpsnaik/Desktop/Testing1/apache2.0/htdocs/favicon.ico, referer: http://192.168.43.63:2345/share/get.php?ip=192.168.43.63
+[Fri Nov 16 11:00:59 2018] [error] [client 192.168.43.63] client denied by server configuration: C:/Users/rpsnaik/Desktop/Testing1/error, referer: http://192.168.43.63:2345/share/get.php?ip=192.168.43.63
+[Fri Nov 16 11:06:46 2018] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Fri Nov 16 11:06:46 2018] [notice] Child 10044: Exit event signaled. Child process is ending.
+[Fri Nov 16 11:06:47 2018] [notice] Child 10044: Released the start mutex
+[Fri Nov 16 11:06:48 2018] [notice] Child 10044: All worker threads have exited.
+[Fri Nov 16 11:06:48 2018] [notice] Child 10044: Child process is exiting
+[Fri Nov 16 11:06:48 2018] [notice] Parent: Child process exited successfully.
+[Fri Nov 16 14:22:04 2018] [notice] Apache/2.2.17 (Win32) PHP/5.3.10 configured -- resuming normal operations
+[Fri Nov 16 14:22:05 2018] [notice] Server built: Oct 18 2010 01:58:12
+[Fri Nov 16 14:22:05 2018] [notice] Parent: Created child process 1328
+Apache server shutdown initiated...
+Child 1328: Child process is running
+[Fri Nov 16 14:22:05 2018] [notice] Child 1328: Acquired the start mutex.
+[Fri Nov 16 14:22:05 2018] [notice] Child 1328: Starting 64 worker threads.
+[Fri Nov 16 14:22:05 2018] [notice] Child 1328: Starting thread to listen on port 2345.
+[Fri Nov 16 14:22:09 2018] [error] [client 127.0.0.1] File does not exist: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/apache2.0/htdocs/favicon.ico, referer: http://localhost:2345/index.php
+[Fri Nov 16 14:22:09 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/error, referer: http://localhost:2345/index.php
+[Fri Nov 16 14:23:21 2018] [error] [client 172.21.178.129] client denied by server configuration: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/icons, referer: http://172.21.181.206:2345/
+[Fri Nov 16 14:23:21 2018] [error] [client 172.21.178.129] client denied by server configuration: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/icons, referer: http://172.21.181.206:2345/
+[Fri Nov 16 14:23:21 2018] [error] [client 172.21.178.129] client denied by server configuration: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/error, referer: http://172.21.181.206:2345/
+[Fri Nov 16 14:23:21 2018] [error] [client 172.21.178.129] client denied by server configuration: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/error, referer: http://172.21.181.206:2345/
+[Fri Nov 16 14:23:21 2018] [error] [client 172.21.178.129] client denied by server configuration: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/icons, referer: http://172.21.181.206:2345/
+[Fri Nov 16 14:23:21 2018] [error] [client 172.21.178.129] client denied by server configuration: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/error, referer: http://172.21.181.206:2345/
+[Fri Nov 16 14:23:21 2018] [error] [client 172.21.178.129] File does not exist: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/apache2.0/htdocs/favicon.ico, referer: http://172.21.181.206:2345/
+[Fri Nov 16 14:23:21 2018] [error] [client 172.21.178.129] client denied by server configuration: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/error, referer: http://172.21.181.206:2345/
+[Fri Nov 16 14:23:54 2018] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Fri Nov 16 14:23:54 2018] [notice] Child 1328: Exit event signaled. Child process is ending.
+[Fri Nov 16 14:23:55 2018] [notice] Child 1328: Released the start mutex
+[Fri Nov 16 14:23:56 2018] [notice] Child 1328: All worker threads have exited.
+[Fri Nov 16 14:23:57 2018] [notice] Child 1328: Child process is exiting
+[Fri Nov 16 14:23:57 2018] [notice] Parent: Child process exited successfully.
+[Fri Nov 16 14:49:43 2018] [notice] Apache/2.2.17 (Win32) PHP/5.3.10 configured -- resuming normal operations
+[Fri Nov 16 14:49:43 2018] [notice] Server built: Oct 18 2010 01:58:12
+[Fri Nov 16 14:49:43 2018] [notice] Parent: Created child process 4508
+Apache server shutdown initiated...
+Child 4508: Child process is running
+[Fri Nov 16 14:49:43 2018] [notice] Child 4508: Acquired the start mutex.
+[Fri Nov 16 14:49:43 2018] [notice] Child 4508: Starting 64 worker threads.
+[Fri Nov 16 14:49:43 2018] [notice] Child 4508: Starting thread to listen on port 2345.
+[Fri Nov 16 14:49:43 2018] [error] [client 127.0.0.1] File does not exist: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/apache2.0/htdocs/favicon.ico, referer: http://localhost:2345/index.php
+[Fri Nov 16 14:49:43 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/error, referer: http://localhost:2345/index.php
+[Fri Nov 16 14:51:24 2018] [error] [client 172.21.181.206] File does not exist: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/apache2.0/htdocs/favicon.ico, referer: http://172.21.181.206:2345/share/get.php?ip=172.21.181.206
+[Fri Nov 16 14:51:24 2018] [error] [client 172.21.181.206] client denied by server configuration: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/error, referer: http://172.21.181.206:2345/share/get.php?ip=172.21.181.206
+The system cannot find the path specified.
+[Fri Nov 16 14:52:57 2018] [error] [client 172.21.178.129] client denied by server configuration: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/icons, referer: http://172.21.181.206:2345/
+[Fri Nov 16 14:52:57 2018] [error] [client 172.21.178.129] client denied by server configuration: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/error, referer: http://172.21.181.206:2345/
+[Fri Nov 16 14:52:57 2018] [error] [client 172.21.178.129] client denied by server configuration: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/icons, referer: http://172.21.181.206:2345/
+[Fri Nov 16 14:52:57 2018] [error] [client 172.21.178.129] client denied by server configuration: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/error, referer: http://172.21.181.206:2345/
+[Fri Nov 16 14:52:57 2018] [error] [client 172.21.178.129] client denied by server configuration: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/icons, referer: http://172.21.181.206:2345/
+[Fri Nov 16 14:52:57 2018] [error] [client 172.21.178.129] client denied by server configuration: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/error, referer: http://172.21.181.206:2345/
+[Fri Nov 16 14:52:57 2018] [error] [client 172.21.178.129] File does not exist: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/apache2.0/htdocs/favicon.ico, referer: http://172.21.181.206:2345/
+[Fri Nov 16 14:52:57 2018] [error] [client 172.21.178.129] client denied by server configuration: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/error, referer: http://172.21.181.206:2345/
+The system cannot find the path specified.
+The system cannot find the path specified.
+[Fri Nov 16 14:53:21 2018] [error] [client 172.21.182.244] File does not exist: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/apache2.0/htdocs/favicon.ico, referer: http://172.21.181.206:2345/index.php
+[Fri Nov 16 14:53:21 2018] [error] [client 172.21.182.244] client denied by server configuration: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/error, referer: http://172.21.181.206:2345/index.php
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+[Fri Nov 16 14:54:32 2018] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Fri Nov 16 14:54:32 2018] [notice] Child 4508: Exit event signaled. Child process is ending.
+[Fri Nov 16 14:54:33 2018] [notice] Child 4508: Released the start mutex
+[Fri Nov 16 14:54:35 2018] [notice] Child 4508: All worker threads have exited.
+[Fri Nov 16 14:54:35 2018] [notice] Child 4508: Child process is exiting
+[Fri Nov 16 14:54:35 2018] [notice] Parent: Child process exited successfully.
+[Fri Nov 16 17:36:08 2018] [notice] Apache/2.2.17 (Win32) PHP/5.3.10 configured -- resuming normal operations
+[Fri Nov 16 17:36:08 2018] [notice] Server built: Oct 18 2010 01:58:12
+[Fri Nov 16 17:36:09 2018] [notice] Parent: Created child process 11220
+Apache server shutdown initiated...
+Child 11220: Child process is running
+[Fri Nov 16 17:36:09 2018] [notice] Child 11220: Acquired the start mutex.
+[Fri Nov 16 17:36:09 2018] [notice] Child 11220: Starting 64 worker threads.
+[Fri Nov 16 17:36:09 2018] [notice] Child 11220: Starting thread to listen on port 2345.
+[Fri Nov 16 17:36:09 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/bin/index.php
+[Fri Nov 16 17:36:09 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/error
+[Fri Nov 16 17:36:10 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/bin/favicon.ico, referer: http://localhost:2345/index.php
+[Fri Nov 16 17:36:10 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/error, referer: http://localhost:2345/index.php
+[Fri Nov 16 17:36:17 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/bin/
+[Fri Nov 16 17:36:17 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/error
+[Fri Nov 16 17:36:17 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/bin/favicon.ico, referer: http://localhost:2345/
+[Fri Nov 16 17:36:17 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/error, referer: http://localhost:2345/
+[Fri Nov 16 17:36:59 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/bin/
+[Fri Nov 16 17:36:59 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/error
+[Fri Nov 16 17:36:59 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/bin/favicon.ico, referer: http://localhost:2345/
+[Fri Nov 16 17:36:59 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/error, referer: http://localhost:2345/
+[Fri Nov 16 17:37:01 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/bin/
+[Fri Nov 16 17:37:01 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/error
+[Fri Nov 16 17:37:01 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/bin/favicon.ico, referer: http://localhost:2345/
+[Fri Nov 16 17:37:01 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/error, referer: http://localhost:2345/
+[Fri Nov 16 17:37:06 2018] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Fri Nov 16 17:37:06 2018] [notice] Child 11220: Exit event signaled. Child process is ending.
+[Fri Nov 16 17:37:07 2018] [notice] Child 11220: Released the start mutex
+[Fri Nov 16 17:37:14 2018] [notice] Child 11220: All worker threads have exited.
+[Fri Nov 16 17:37:14 2018] [notice] Child 11220: Child process is exiting
+[Fri Nov 16 17:37:18 2018] [warn] pid file C:/Users/rpsnaik/Desktop/Fast_Share_Portable/apache2.0/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Nov 16 17:37:18 2018] [notice] Apache/2.2.17 (Win32) PHP/5.3.10 configured -- resuming normal operations
+[Fri Nov 16 17:37:18 2018] [notice] Server built: Oct 18 2010 01:58:12
+[Fri Nov 16 17:37:18 2018] [notice] Parent: Created child process 10108
+Apache server shutdown initiated...
+Child 10108: Child process is running
+[Fri Nov 16 17:37:18 2018] [notice] Child 10108: Acquired the start mutex.
+[Fri Nov 16 17:37:18 2018] [notice] Child 10108: Starting 64 worker threads.
+[Fri Nov 16 17:37:18 2018] [notice] Child 10108: Starting thread to listen on port 2345.
+[Fri Nov 16 17:37:40 2018] [error] [client 127.0.0.1] File does not exist: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/apache2.0/htdocs/favicon.ico, referer: http://localhost:2345/index.php
+[Fri Nov 16 17:37:40 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/error, referer: http://localhost:2345/index.php
+The system cannot find the path specified.
+[Fri Nov 16 17:38:44 2018] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Fri Nov 16 17:38:44 2018] [notice] Child 10108: Exit event signaled. Child process is ending.
+[Fri Nov 16 17:38:45 2018] [notice] Child 10108: Released the start mutex
+[Fri Nov 16 17:38:49 2018] [notice] Child 10108: All worker threads have exited.
+[Fri Nov 16 17:38:49 2018] [notice] Child 10108: Child process is exiting
+[Fri Nov 16 17:38:49 2018] [notice] Parent: Child process exited successfully.
+[Fri Nov 16 17:48:31 2018] [notice] Apache/2.2.17 (Win32) PHP/5.3.10 configured -- resuming normal operations
+[Fri Nov 16 17:48:31 2018] [notice] Server built: Oct 18 2010 01:58:12
+[Fri Nov 16 17:48:32 2018] [notice] Parent: Created child process 10804
+Apache server shutdown initiated...
+Child 10804: Child process is running
+[Fri Nov 16 17:48:32 2018] [notice] Child 10804: Acquired the start mutex.
+[Fri Nov 16 17:48:32 2018] [notice] Child 10804: Starting 64 worker threads.
+[Fri Nov 16 17:48:32 2018] [notice] Child 10804: Starting thread to listen on port 2345.
+[Fri Nov 16 18:09:27 2018] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Fri Nov 16 18:09:27 2018] [notice] Child 10804: Exit event signaled. Child process is ending.
+[Fri Nov 16 18:09:28 2018] [notice] Child 10804: Released the start mutex
+[Fri Nov 16 18:09:29 2018] [notice] Child 10804: All worker threads have exited.
+[Fri Nov 16 18:09:29 2018] [notice] Child 10804: Child process is exiting
+[Fri Nov 16 18:09:29 2018] [notice] Parent: Child process exited successfully.
+[Fri Nov 16 18:09:52 2018] [notice] Apache/2.2.17 (Win32) PHP/5.3.10 configured -- resuming normal operations
+[Fri Nov 16 18:09:52 2018] [notice] Server built: Oct 18 2010 01:58:12
+[Fri Nov 16 18:09:52 2018] [notice] Parent: Created child process 7048
+Apache server shutdown initiated...
+Child 7048: Child process is running
+[Fri Nov 16 18:09:52 2018] [notice] Child 7048: Acquired the start mutex.
+[Fri Nov 16 18:09:52 2018] [notice] Child 7048: Starting 64 worker threads.
+[Fri Nov 16 18:09:52 2018] [notice] Child 7048: Starting thread to listen on port 2345.
+[Fri Nov 16 18:09:55 2018] [error] [client 127.0.0.1] File does not exist: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/apache2.0/htdocs/.material, referer: http://localhost:2345/index.php
+[Fri Nov 16 18:09:55 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/error, referer: http://localhost:2345/index.php
+[Fri Nov 16 18:09:55 2018] [error] [client 127.0.0.1] File does not exist: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/apache2.0/htdocs/.material, referer: http://localhost:2345/index.php
+[Fri Nov 16 18:09:55 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/error, referer: http://localhost:2345/index.php
+[Fri Nov 16 18:09:56 2018] [error] [client 127.0.0.1] File does not exist: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/apache2.0/htdocs/favicon.ico, referer: http://localhost:2345/index.php
+[Fri Nov 16 18:09:56 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/error, referer: http://localhost:2345/index.php
+[Fri Nov 16 18:10:03 2018] [error] [client 127.0.0.1] File does not exist: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/apache2.0/htdocs/.material, referer: http://localhost:2345/index.php
+[Fri Nov 16 18:10:03 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/error, referer: http://localhost:2345/index.php
+[Fri Nov 16 18:10:03 2018] [error] [client 127.0.0.1] File does not exist: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/apache2.0/htdocs/.material, referer: http://localhost:2345/index.php
+[Fri Nov 16 18:10:03 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/error, referer: http://localhost:2345/index.php
+The system cannot find the path specified.
+The system cannot find the path specified.
+[Fri Nov 16 18:11:52 2018] [error] [client 127.0.0.1] File does not exist: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/apache2.0/htdocs/favicon.ico, referer: http://127.0.0.1:2345/share/get.php?ip=127.0.0.1
+[Fri Nov 16 18:11:52 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/error, referer: http://127.0.0.1:2345/share/get.php?ip=127.0.0.1
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+[Fri Nov 16 18:15:25 2018] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Fri Nov 16 18:15:25 2018] [notice] Child 7048: Exit event signaled. Child process is ending.
+[Fri Nov 16 18:15:26 2018] [notice] Child 7048: Released the start mutex
+[Fri Nov 16 18:15:27 2018] [notice] Child 7048: All worker threads have exited.
+[Fri Nov 16 18:15:27 2018] [notice] Child 7048: Child process is exiting
+[Fri Nov 16 18:15:27 2018] [notice] Parent: Child process exited successfully.
+[Fri Nov 16 18:24:18 2018] [notice] Apache/2.2.17 (Win32) PHP/5.3.10 configured -- resuming normal operations
+[Fri Nov 16 18:24:18 2018] [notice] Server built: Oct 18 2010 01:58:12
+[Fri Nov 16 18:24:19 2018] [notice] Parent: Created child process 12468
+Apache server shutdown initiated...
+Child 12468: Child process is running
+[Fri Nov 16 18:24:19 2018] [notice] Child 12468: Acquired the start mutex.
+[Fri Nov 16 18:24:19 2018] [notice] Child 12468: Starting 64 worker threads.
+[Fri Nov 16 18:24:19 2018] [notice] Child 12468: Starting thread to listen on port 2345.
+[Fri Nov 16 18:24:21 2018] [error] [client 127.0.0.1] File does not exist: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/apache2.0/htdocs/favicon.ico, referer: http://localhost:2345/index.php
+[Fri Nov 16 18:24:21 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/error, referer: http://localhost:2345/index.php
+[Fri Nov 16 18:24:23 2018] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Fri Nov 16 18:24:23 2018] [notice] Child 12468: Exit event signaled. Child process is ending.
+[Fri Nov 16 18:24:24 2018] [notice] Child 12468: Released the start mutex
+[Fri Nov 16 18:24:25 2018] [notice] Child 12468: All worker threads have exited.
+[Fri Nov 16 18:24:25 2018] [notice] Child 12468: Child process is exiting
+[Fri Nov 16 18:24:26 2018] [notice] Parent: Child process exited successfully.
+[Fri Nov 16 19:13:42 2018] [notice] Apache/2.2.17 (Win32) PHP/5.3.10 configured -- resuming normal operations
+[Fri Nov 16 19:13:42 2018] [notice] Server built: Oct 18 2010 01:58:12
+[Fri Nov 16 19:13:42 2018] [notice] Parent: Created child process 6384
+Apache server shutdown initiated...
+Child 6384: Child process is running
+[Fri Nov 16 19:13:43 2018] [notice] Child 6384: Acquired the start mutex.
+[Fri Nov 16 19:13:43 2018] [notice] Child 6384: Starting 64 worker threads.
+[Fri Nov 16 19:13:43 2018] [notice] Child 6384: Starting thread to listen on port 2345.
+[Fri Nov 16 19:13:44 2018] [error] [client 127.0.0.1] File does not exist: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/apache2.0/htdocs/favicon.ico, referer: http://localhost:2345/index.php
+[Fri Nov 16 19:13:44 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/error, referer: http://localhost:2345/index.php
+[Fri Nov 16 19:13:47 2018] [error] [client 192.168.43.202] client denied by server configuration: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/icons, referer: http://192.168.43.63:2345/
+[Fri Nov 16 19:13:47 2018] [error] [client 192.168.43.202] client denied by server configuration: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/error, referer: http://192.168.43.63:2345/
+[Fri Nov 16 19:13:47 2018] [error] [client 192.168.43.202] client denied by server configuration: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/icons, referer: http://192.168.43.63:2345/
+[Fri Nov 16 19:13:47 2018] [error] [client 192.168.43.202] client denied by server configuration: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/error, referer: http://192.168.43.63:2345/
+[Fri Nov 16 19:13:47 2018] [error] [client 192.168.43.202] client denied by server configuration: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/icons, referer: http://192.168.43.63:2345/
+[Fri Nov 16 19:13:47 2018] [error] [client 192.168.43.202] client denied by server configuration: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/error, referer: http://192.168.43.63:2345/
+[Fri Nov 16 19:13:48 2018] [error] [client 192.168.43.202] File does not exist: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/apache2.0/htdocs/favicon.ico, referer: http://192.168.43.63:2345/
+[Fri Nov 16 19:13:48 2018] [error] [client 192.168.43.202] client denied by server configuration: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/error, referer: http://192.168.43.63:2345/
+[Fri Nov 16 19:14:11 2018] [error] [client 192.168.43.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/icons, referer: http://192.168.43.63:2345/
+[Fri Nov 16 19:14:11 2018] [error] [client 192.168.43.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/icons, referer: http://192.168.43.63:2345/
+[Fri Nov 16 19:14:11 2018] [error] [client 192.168.43.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/icons, referer: http://192.168.43.63:2345/
+[Fri Nov 16 19:14:11 2018] [error] [client 192.168.43.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/error, referer: http://192.168.43.63:2345/
+[Fri Nov 16 19:14:11 2018] [error] [client 192.168.43.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/error, referer: http://192.168.43.63:2345/
+[Fri Nov 16 19:14:11 2018] [error] [client 192.168.43.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/error, referer: http://192.168.43.63:2345/
+[Fri Nov 16 19:14:11 2018] [error] [client 192.168.43.1] File does not exist: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/apache2.0/htdocs/favicon.ico, referer: http://192.168.43.63:2345/
+[Fri Nov 16 19:14:11 2018] [error] [client 192.168.43.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/error, referer: http://192.168.43.63:2345/
+[Fri Nov 16 19:14:22 2018] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Fri Nov 16 19:14:22 2018] [notice] Child 6384: Exit event signaled. Child process is ending.
+[Fri Nov 16 19:14:23 2018] [notice] Child 6384: Released the start mutex
+[Fri Nov 16 19:14:24 2018] [notice] Child 6384: All worker threads have exited.
+[Fri Nov 16 19:14:24 2018] [notice] Child 6384: Child process is exiting
+[Fri Nov 16 19:14:24 2018] [notice] Parent: Child process exited successfully.
+[Fri Nov 16 19:21:43 2018] [notice] Apache/2.2.17 (Win32) PHP/5.3.10 configured -- resuming normal operations
+[Fri Nov 16 19:21:43 2018] [notice] Server built: Oct 18 2010 01:58:12
+[Fri Nov 16 19:21:43 2018] [notice] Parent: Created child process 12892
+Apache server shutdown initiated...
+Child 12892: Child process is running
+[Fri Nov 16 19:21:44 2018] [notice] Child 12892: Acquired the start mutex.
+[Fri Nov 16 19:21:44 2018] [notice] Child 12892: Starting 64 worker threads.
+[Fri Nov 16 19:21:44 2018] [notice] Child 12892: Starting thread to listen on port 2345.
+[Fri Nov 16 19:21:46 2018] [error] [client 127.0.0.1] File does not exist: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/apache2.0/htdocs/favicon.ico, referer: http://localhost:2345/index.php
+[Fri Nov 16 19:21:46 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/error, referer: http://localhost:2345/index.php
+[Fri Nov 16 19:21:50 2018] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Fri Nov 16 19:21:50 2018] [notice] Child 12892: Exit event signaled. Child process is ending.
+[Fri Nov 16 19:21:51 2018] [notice] Child 12892: Released the start mutex
+[Fri Nov 16 19:21:52 2018] [notice] Child 12892: All worker threads have exited.
+[Fri Nov 16 19:21:52 2018] [notice] Child 12892: Child process is exiting
+[Fri Nov 16 19:21:52 2018] [notice] Parent: Child process exited successfully.
+[Fri Nov 16 19:24:52 2018] [notice] Apache/2.2.17 (Win32) PHP/5.3.10 configured -- resuming normal operations
+[Fri Nov 16 19:24:52 2018] [notice] Server built: Oct 18 2010 01:58:12
+[Fri Nov 16 19:24:52 2018] [notice] Parent: Created child process 12132
+Apache server shutdown initiated...
+Child 12132: Child process is running
+[Fri Nov 16 19:24:52 2018] [notice] Child 12132: Acquired the start mutex.
+[Fri Nov 16 19:24:52 2018] [notice] Child 12132: Starting 64 worker threads.
+[Fri Nov 16 19:24:52 2018] [notice] Child 12132: Starting thread to listen on port 2345.
+[Fri Nov 16 19:24:54 2018] [error] [client 127.0.0.1] File does not exist: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/apache2.0/htdocs/favicon.ico, referer: http://localhost:2345/index.php
+[Fri Nov 16 19:24:54 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/error, referer: http://localhost:2345/index.php
+[Fri Nov 16 19:24:56 2018] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Fri Nov 16 19:24:56 2018] [notice] Child 12132: Exit event signaled. Child process is ending.
+[Fri Nov 16 19:24:57 2018] [notice] Child 12132: Released the start mutex
+[Fri Nov 16 19:24:58 2018] [notice] Child 12132: All worker threads have exited.
+[Fri Nov 16 19:24:58 2018] [notice] Child 12132: Child process is exiting
+[Fri Nov 16 19:24:58 2018] [notice] Parent: Child process exited successfully.
+[Fri Nov 16 19:26:14 2018] [notice] Apache/2.2.17 (Win32) PHP/5.3.10 configured -- resuming normal operations
+[Fri Nov 16 19:26:14 2018] [notice] Server built: Oct 18 2010 01:58:12
+[Fri Nov 16 19:26:14 2018] [notice] Parent: Created child process 13012
+Apache server shutdown initiated...
+Child 13012: Child process is running
+[Fri Nov 16 19:26:14 2018] [notice] Child 13012: Acquired the start mutex.
+[Fri Nov 16 19:26:14 2018] [notice] Child 13012: Starting 64 worker threads.
+[Fri Nov 16 19:26:14 2018] [notice] Child 13012: Starting thread to listen on port 2345.
+[Fri Nov 16 19:26:16 2018] [error] [client 127.0.0.1] File does not exist: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/apache2.0/htdocs/favicon.ico, referer: http://localhost:2345/index.php
+[Fri Nov 16 19:26:16 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/error, referer: http://localhost:2345/index.php
+[Fri Nov 16 19:26:19 2018] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Fri Nov 16 19:26:19 2018] [notice] Child 13012: Exit event signaled. Child process is ending.
+[Fri Nov 16 19:26:20 2018] [notice] Child 13012: Released the start mutex
+[Fri Nov 16 19:26:21 2018] [notice] Child 13012: All worker threads have exited.
+[Fri Nov 16 19:26:21 2018] [notice] Child 13012: Child process is exiting
+[Fri Nov 16 19:26:21 2018] [notice] Parent: Child process exited successfully.
+[Fri Nov 16 19:28:43 2018] [notice] Apache/2.2.17 (Win32) PHP/5.3.10 configured -- resuming normal operations
+[Fri Nov 16 19:28:43 2018] [notice] Server built: Oct 18 2010 01:58:12
+[Fri Nov 16 19:28:43 2018] [notice] Parent: Created child process 8352
+Apache server shutdown initiated...
+Child 8352: Child process is running
+[Fri Nov 16 19:28:43 2018] [notice] Child 8352: Acquired the start mutex.
+[Fri Nov 16 19:28:43 2018] [notice] Child 8352: Starting 64 worker threads.
+[Fri Nov 16 19:28:43 2018] [notice] Child 8352: Starting thread to listen on port 2345.
+[Fri Nov 16 19:28:45 2018] [error] [client 127.0.0.1] File does not exist: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/apache2.0/htdocs/favicon.ico, referer: http://localhost:2345/index.php
+[Fri Nov 16 19:28:45 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/error, referer: http://localhost:2345/index.php
+[Fri Nov 16 19:33:37 2018] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Fri Nov 16 19:33:37 2018] [notice] Child 8352: Exit event signaled. Child process is ending.
+[Fri Nov 16 19:33:38 2018] [notice] Child 8352: Released the start mutex
+[Fri Nov 16 19:33:39 2018] [notice] Child 8352: All worker threads have exited.
+[Fri Nov 16 19:33:39 2018] [notice] Child 8352: Child process is exiting
+[Fri Nov 16 19:33:40 2018] [notice] Parent: Child process exited successfully.
+[Fri Nov 16 19:34:15 2018] [notice] Apache/2.2.17 (Win32) PHP/5.3.10 configured -- resuming normal operations
+[Fri Nov 16 19:34:15 2018] [notice] Server built: Oct 18 2010 01:58:12
+[Fri Nov 16 19:34:15 2018] [notice] Parent: Created child process 12180
+Apache server shutdown initiated...
+Child 12180: Child process is running
+[Fri Nov 16 19:34:16 2018] [notice] Child 12180: Acquired the start mutex.
+[Fri Nov 16 19:34:16 2018] [notice] Child 12180: Starting 64 worker threads.
+[Fri Nov 16 19:34:16 2018] [notice] Child 12180: Starting thread to listen on port 2345.
+[Fri Nov 16 19:34:25 2018] [error] [client 127.0.0.1] File does not exist: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/apache2.0/htdocs/favicon.ico, referer: http://localhost:2345/index.php
+[Fri Nov 16 19:34:25 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/error, referer: http://localhost:2345/index.php
+The system cannot find the path specified.
+The system cannot find the path specified.
+[Fri Nov 16 19:34:44 2018] [error] [client 192.168.43.41] File does not exist: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/apache2.0/htdocs/share/flUhRq6tzZclQEJ-Vdg-IuiaDsNc.woff2, referer: http://192.168.43.63:2345/share/get.php?ip=192.168.43.63
+[Fri Nov 16 19:34:44 2018] [error] [client 192.168.43.41] client denied by server configuration: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/error, referer: http://192.168.43.63:2345/share/get.php?ip=192.168.43.63
+[Fri Nov 16 19:34:45 2018] [error] [client 192.168.43.41] File does not exist: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/apache2.0/htdocs/favicon.ico, referer: http://192.168.43.63:2345/share/get.php?ip=192.168.43.63
+[Fri Nov 16 19:34:45 2018] [error] [client 192.168.43.41] client denied by server configuration: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/error, referer: http://192.168.43.63:2345/share/get.php?ip=192.168.43.63
+[Fri Nov 16 19:35:22 2018] [error] [client 192.168.43.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/icons, referer: http://192.168.43.63:2345/
+[Fri Nov 16 19:35:22 2018] [error] [client 192.168.43.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/icons, referer: http://192.168.43.63:2345/
+[Fri Nov 16 19:35:22 2018] [error] [client 192.168.43.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/error, referer: http://192.168.43.63:2345/
+[Fri Nov 16 19:35:22 2018] [error] [client 192.168.43.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/error, referer: http://192.168.43.63:2345/
+[Fri Nov 16 19:35:22 2018] [error] [client 192.168.43.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/icons, referer: http://192.168.43.63:2345/
+[Fri Nov 16 19:35:22 2018] [error] [client 192.168.43.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/error, referer: http://192.168.43.63:2345/
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+[Fri Nov 16 19:39:18 2018] [error] [client 192.168.43.63] File does not exist: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/apache2.0/htdocs/favicon.ico, referer: http://192.168.43.63:2345/share/get.php?ip=192.168.43.63
+[Fri Nov 16 19:39:18 2018] [error] [client 192.168.43.63] client denied by server configuration: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/error, referer: http://192.168.43.63:2345/share/get.php?ip=192.168.43.63
+The system cannot find the path specified.
+[Fri Nov 16 19:40:51 2018] [error] [client 192.168.43.133] File does not exist: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/apache2.0/htdocs/favicon.ico, referer: http://192.168.43.63:2345/share/get.php?ip=192.168.43.63
+[Fri Nov 16 19:40:51 2018] [error] [client 192.168.43.133] client denied by server configuration: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/error, referer: http://192.168.43.63:2345/share/get.php?ip=192.168.43.63
+[Fri Nov 16 19:49:08 2018] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Fri Nov 16 19:49:08 2018] [notice] Child 12180: Exit event signaled. Child process is ending.
+[Fri Nov 16 19:49:09 2018] [notice] Child 12180: Released the start mutex
+[Fri Nov 16 19:49:10 2018] [notice] Child 12180: All worker threads have exited.
+[Fri Nov 16 19:49:10 2018] [notice] Child 12180: Child process is exiting
+[Fri Nov 16 19:49:10 2018] [notice] Parent: Child process exited successfully.
+[Fri Nov 16 19:49:16 2018] [notice] Apache/2.2.17 (Win32) PHP/5.3.10 configured -- resuming normal operations
+[Fri Nov 16 19:49:16 2018] [notice] Server built: Oct 18 2010 01:58:12
+[Fri Nov 16 19:49:16 2018] [notice] Parent: Created child process 13588
+Apache server shutdown initiated...
+Child 13588: Child process is running
+[Fri Nov 16 19:49:16 2018] [notice] Child 13588: Acquired the start mutex.
+[Fri Nov 16 19:49:16 2018] [notice] Child 13588: Starting 64 worker threads.
+[Fri Nov 16 19:49:16 2018] [notice] Child 13588: Starting thread to listen on port 2345.
+[Fri Nov 16 19:49:18 2018] [error] [client 127.0.0.1] File does not exist: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/apache2.0/htdocs/favicon.ico, referer: http://localhost:2345/index.php
+[Fri Nov 16 19:49:18 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/error, referer: http://localhost:2345/index.php
+The system cannot find the path specified.
+The system cannot find the path specified.
+[Fri Nov 16 19:50:45 2018] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Fri Nov 16 19:50:45 2018] [notice] Child 13588: Exit event signaled. Child process is ending.
+[Fri Nov 16 19:50:46 2018] [notice] Child 13588: Released the start mutex
+[Fri Nov 16 19:50:47 2018] [notice] Child 13588: All worker threads have exited.
+[Fri Nov 16 19:50:47 2018] [notice] Child 13588: Child process is exiting
+[Fri Nov 16 19:50:47 2018] [notice] Parent: Child process exited successfully.
+[Fri Nov 16 19:59:40 2018] [notice] Apache/2.2.17 (Win32) PHP/5.3.10 configured -- resuming normal operations
+[Fri Nov 16 19:59:40 2018] [notice] Server built: Oct 18 2010 01:58:12
+[Fri Nov 16 19:59:40 2018] [notice] Parent: Created child process 9944
+Apache server shutdown initiated...
+Child 9944: Child process is running
+[Fri Nov 16 19:59:40 2018] [notice] Child 9944: Acquired the start mutex.
+[Fri Nov 16 19:59:40 2018] [notice] Child 9944: Starting 64 worker threads.
+[Fri Nov 16 19:59:40 2018] [notice] Child 9944: Starting thread to listen on port 2345.
+[Fri Nov 16 19:59:44 2018] [error] [client 127.0.0.1] File does not exist: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/apache2.0/htdocs/favicon.ico, referer: http://localhost:2345/index.php
+[Fri Nov 16 19:59:44 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/error, referer: http://localhost:2345/index.php
+The system cannot find the path specified.
+[Fri Nov 16 20:20:00 2018] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Fri Nov 16 20:20:00 2018] [notice] Child 9944: Exit event signaled. Child process is ending.
+[Fri Nov 16 20:20:01 2018] [notice] Child 9944: Released the start mutex
+[Fri Nov 16 20:20:02 2018] [notice] Child 9944: All worker threads have exited.
+[Fri Nov 16 20:20:02 2018] [notice] Child 9944: Child process is exiting
+[Fri Nov 16 20:20:02 2018] [notice] Parent: Child process exited successfully.
+[Fri Nov 16 20:20:15 2018] [notice] Apache/2.2.17 (Win32) PHP/5.3.10 configured -- resuming normal operations
+[Fri Nov 16 20:20:15 2018] [notice] Server built: Oct 18 2010 01:58:12
+[Fri Nov 16 20:20:15 2018] [notice] Parent: Created child process 11868
+Apache server shutdown initiated...
+Child 11868: Child process is running
+[Fri Nov 16 20:20:15 2018] [notice] Child 11868: Acquired the start mutex.
+[Fri Nov 16 20:20:15 2018] [notice] Child 11868: Starting 64 worker threads.
+[Fri Nov 16 20:20:15 2018] [notice] Child 11868: Starting thread to listen on port 8345.
+[Fri Nov 16 20:20:15 2018] [error] [client 127.0.0.1] File does not exist: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/apache2.0/htdocs/favicon.ico, referer: http://localhost:8345/index.php
+[Fri Nov 16 20:20:15 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/error, referer: http://localhost:8345/index.php
+[Fri Nov 16 20:20:20 2018] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Fri Nov 16 20:20:20 2018] [notice] Child 11868: Exit event signaled. Child process is ending.
+[Fri Nov 16 20:20:21 2018] [notice] Child 11868: Released the start mutex
+[Fri Nov 16 20:20:22 2018] [notice] Child 11868: All worker threads have exited.
+[Fri Nov 16 20:20:22 2018] [notice] Child 11868: Child process is exiting
+[Fri Nov 16 20:20:22 2018] [notice] Parent: Child process exited successfully.
+[Fri Nov 16 20:21:37 2018] [notice] Apache/2.2.17 (Win32) PHP/5.3.10 configured -- resuming normal operations
+[Fri Nov 16 20:21:37 2018] [notice] Server built: Oct 18 2010 01:58:12
+[Fri Nov 16 20:21:37 2018] [notice] Parent: Created child process 3708
+Apache server shutdown initiated...
+Child 3708: Child process is running
+[Fri Nov 16 20:21:37 2018] [notice] Child 3708: Acquired the start mutex.
+[Fri Nov 16 20:21:37 2018] [notice] Child 3708: Starting 64 worker threads.
+[Fri Nov 16 20:21:37 2018] [notice] Child 3708: Starting thread to listen on port 8345.
+[Fri Nov 16 20:21:39 2018] [error] [client 127.0.0.1] File does not exist: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/apache2.0/htdocs/favicon.ico, referer: http://localhost:8345/index.php
+[Fri Nov 16 20:21:39 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/error, referer: http://localhost:8345/index.php
+[Fri Nov 16 20:27:53 2018] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Fri Nov 16 20:27:53 2018] [notice] Child 3708: Exit event signaled. Child process is ending.
+[Fri Nov 16 20:27:54 2018] [notice] Child 3708: Released the start mutex
+[Fri Nov 16 20:27:55 2018] [notice] Child 3708: All worker threads have exited.
+[Fri Nov 16 20:27:55 2018] [notice] Child 3708: Child process is exiting
+[Fri Nov 16 20:27:55 2018] [notice] Parent: Child process exited successfully.
+[Fri Nov 16 20:29:02 2018] [notice] Apache/2.2.17 (Win32) PHP/5.3.10 configured -- resuming normal operations
+[Fri Nov 16 20:29:02 2018] [notice] Server built: Oct 18 2010 01:58:12
+[Fri Nov 16 20:29:02 2018] [notice] Parent: Created child process 12608
+Apache server shutdown initiated...
+Child 12608: Child process is running
+[Fri Nov 16 20:29:02 2018] [notice] Child 12608: Acquired the start mutex.
+[Fri Nov 16 20:29:02 2018] [notice] Child 12608: Starting 64 worker threads.
+[Fri Nov 16 20:29:02 2018] [notice] Child 12608: Starting thread to listen on port 8345.
+[Fri Nov 16 20:29:04 2018] [error] [client 127.0.0.1] File does not exist: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/apache2.0/htdocs/favicon.ico, referer: http://localhost:8345/index.php
+[Fri Nov 16 20:29:04 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/rpsnaik/Desktop/Fast_Share_Portable/error, referer: http://localhost:8345/index.php
+[Fri Nov 16 20:49:33 2018] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Fri Nov 16 20:49:33 2018] [notice] Child 12608: Exit event signaled. Child process is ending.
+[Fri Nov 16 20:49:34 2018] [notice] Child 12608: Released the start mutex
+[Fri Nov 16 20:49:35 2018] [notice] Child 12608: All worker threads have exited.
+[Fri Nov 16 20:49:35 2018] [notice] Child 12608: Child process is exiting
+[Fri Nov 16 20:49:35 2018] [notice] Parent: Child process exited successfully.
+[Mon Dec 03 11:41:47 2018] [notice] Apache/2.2.17 (Win32) PHP/5.3.10 configured -- resuming normal operations
+[Mon Dec 03 11:41:47 2018] [notice] Server built: Oct 18 2010 01:58:12
+[Mon Dec 03 11:41:47 2018] [notice] Parent: Created child process 5384
+Apache server shutdown initiated...
+Child 5384: Child process is running
+[Mon Dec 03 11:41:48 2018] [notice] Child 5384: Acquired the start mutex.
+[Mon Dec 03 11:41:48 2018] [notice] Child 5384: Starting 64 worker threads.
+[Mon Dec 03 11:41:48 2018] [notice] Child 5384: Starting thread to listen on port 8345.
+[Mon Dec 03 11:41:51 2018] [error] [client 127.0.0.1] File does not exist: C:/Users/R P S Naik/Desktop/Fast-Share-for-Desktops-Win-x86_64-v1.0.0-stable-portable-master/apache2.0/htdocs/favicon.ico, referer: http://localhost:8345/index.php
+[Mon Dec 03 11:41:51 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/R P S Naik/Desktop/Fast-Share-for-Desktops-Win-x86_64-v1.0.0-stable-portable-master/error, referer: http://localhost:8345/index.php
+[Mon Dec 03 11:42:46 2018] [error] [client 192.168.43.214] client denied by server configuration: C:/Users/R P S Naik/Desktop/Fast-Share-for-Desktops-Win-x86_64-v1.0.0-stable-portable-master/icons, referer: http://192.168.43.63:8345/
+[Mon Dec 03 11:42:46 2018] [error] [client 192.168.43.214] client denied by server configuration: C:/Users/R P S Naik/Desktop/Fast-Share-for-Desktops-Win-x86_64-v1.0.0-stable-portable-master/error, referer: http://192.168.43.63:8345/
+[Mon Dec 03 11:42:46 2018] [error] [client 192.168.43.214] client denied by server configuration: C:/Users/R P S Naik/Desktop/Fast-Share-for-Desktops-Win-x86_64-v1.0.0-stable-portable-master/icons, referer: http://192.168.43.63:8345/
+[Mon Dec 03 11:42:46 2018] [error] [client 192.168.43.214] client denied by server configuration: C:/Users/R P S Naik/Desktop/Fast-Share-for-Desktops-Win-x86_64-v1.0.0-stable-portable-master/error, referer: http://192.168.43.63:8345/
+[Mon Dec 03 11:42:46 2018] [error] [client 192.168.43.214] client denied by server configuration: C:/Users/R P S Naik/Desktop/Fast-Share-for-Desktops-Win-x86_64-v1.0.0-stable-portable-master/icons, referer: http://192.168.43.63:8345/
+[Mon Dec 03 11:42:46 2018] [error] [client 192.168.43.214] client denied by server configuration: C:/Users/R P S Naik/Desktop/Fast-Share-for-Desktops-Win-x86_64-v1.0.0-stable-portable-master/error, referer: http://192.168.43.63:8345/
+[Mon Dec 03 11:42:46 2018] [error] [client 192.168.43.214] File does not exist: C:/Users/R P S Naik/Desktop/Fast-Share-for-Desktops-Win-x86_64-v1.0.0-stable-portable-master/apache2.0/htdocs/favicon.ico, referer: http://192.168.43.63:8345/
+[Mon Dec 03 11:42:46 2018] [error] [client 192.168.43.214] client denied by server configuration: C:/Users/R P S Naik/Desktop/Fast-Share-for-Desktops-Win-x86_64-v1.0.0-stable-portable-master/error, referer: http://192.168.43.63:8345/
+[Mon Dec 03 11:48:09 2018] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Mon Dec 03 11:48:09 2018] [notice] Child 5384: Exit event signaled. Child process is ending.
+[Mon Dec 03 11:48:10 2018] [notice] Child 5384: Released the start mutex
+[Mon Dec 03 11:48:11 2018] [notice] Child 5384: All worker threads have exited.
+[Mon Dec 03 11:48:11 2018] [notice] Child 5384: Child process is exiting
+[Mon Dec 03 11:48:11 2018] [notice] Parent: Child process exited successfully.
+[Mon Dec 03 14:55:50 2018] [notice] Apache/2.2.17 (Win32) PHP/5.3.10 configured -- resuming normal operations
+[Mon Dec 03 14:55:50 2018] [notice] Server built: Oct 18 2010 01:58:12
+[Mon Dec 03 14:55:50 2018] [notice] Parent: Created child process 1276
+Apache server shutdown initiated...
+Child 1276: Child process is running
+[Mon Dec 03 14:55:50 2018] [notice] Child 1276: Acquired the start mutex.
+[Mon Dec 03 14:55:50 2018] [notice] Child 1276: Starting 64 worker threads.
+[Mon Dec 03 14:55:50 2018] [notice] Child 1276: Starting thread to listen on port 8345.
+[Mon Dec 03 14:55:51 2018] [error] [client 127.0.0.1] File does not exist: C:/Users/R P S Naik/Desktop/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/apache2.0/htdocs/favicon.ico, referer: http://localhost:8345/index.php
+[Mon Dec 03 14:55:51 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/R P S Naik/Desktop/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/error, referer: http://localhost:8345/index.php
+The system cannot find the path specified.
+[Mon Dec 03 14:56:08 2018] [error] [client 192.168.43.63] File does not exist: C:/Users/R P S Naik/Desktop/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/apache2.0/htdocs/favicon.ico, referer: http://192.168.43.63:8345/share/get.php?ip=192.168.43.63
+[Mon Dec 03 14:56:08 2018] [error] [client 192.168.43.63] client denied by server configuration: C:/Users/R P S Naik/Desktop/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/error, referer: http://192.168.43.63:8345/share/get.php?ip=192.168.43.63
+The system cannot find the path specified.
+[Mon Dec 03 15:06:51 2018] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Mon Dec 03 15:06:51 2018] [notice] Child 1276: Exit event signaled. Child process is ending.
+[Mon Dec 03 15:06:52 2018] [notice] Child 1276: Released the start mutex
+[Mon Dec 03 15:06:53 2018] [notice] Child 1276: All worker threads have exited.
+[Mon Dec 03 15:06:53 2018] [notice] Child 1276: Child process is exiting
+[Mon Dec 03 15:06:53 2018] [notice] Parent: Child process exited successfully.
+[Sat Dec 08 18:45:39 2018] [notice] Apache/2.2.17 (Win32) PHP/5.3.10 configured -- resuming normal operations
+[Sat Dec 08 18:45:39 2018] [notice] Server built: Oct 18 2010 01:58:12
+[Sat Dec 08 18:45:39 2018] [notice] Parent: Created child process 11000
+Apache server shutdown initiated...
+Child 11000: Child process is running
+[Sat Dec 08 18:45:40 2018] [notice] Child 11000: Acquired the start mutex.
+[Sat Dec 08 18:45:40 2018] [notice] Child 11000: Starting 64 worker threads.
+[Sat Dec 08 18:45:40 2018] [notice] Child 11000: Starting thread to listen on port 8345.
+[Sat Dec 08 18:45:49 2018] [error] [client 127.0.0.1] File does not exist: D:/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/apache2.0/htdocs/favicon.ico, referer: http://localhost:8345/index.php
+[Sat Dec 08 18:45:49 2018] [error] [client 127.0.0.1] client denied by server configuration: D:/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/error, referer: http://localhost:8345/index.php
+The system cannot find the path specified.
+The system cannot find the path specified.
+[Sat Dec 08 18:46:15 2018] [error] [client 192.168.43.63] File does not exist: D:/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/apache2.0/htdocs/favicon.ico, referer: http://192.168.43.63:8345/share/get.php?ip=192.168.43.63
+[Sat Dec 08 18:46:15 2018] [error] [client 192.168.43.63] client denied by server configuration: D:/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/error, referer: http://192.168.43.63:8345/share/get.php?ip=192.168.43.63
+The system cannot find the path specified.
+[Sat Dec 08 18:47:54 2018] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Sat Dec 08 18:47:54 2018] [notice] Child 11000: Exit event signaled. Child process is ending.
+[Sat Dec 08 18:47:55 2018] [notice] Child 11000: Released the start mutex
+[Sat Dec 08 18:47:56 2018] [notice] Child 11000: All worker threads have exited.
+[Sat Dec 08 18:47:57 2018] [notice] Child 11000: Child process is exiting
+[Sat Dec 08 18:47:57 2018] [notice] Parent: Child process exited successfully.
+[Fri Dec 14 16:44:39 2018] [notice] Apache/2.2.17 (Win32) PHP/5.3.10 configured -- resuming normal operations
+[Fri Dec 14 16:44:39 2018] [notice] Server built: Oct 18 2010 01:58:12
+[Fri Dec 14 16:44:39 2018] [notice] Parent: Created child process 12668
+Apache server shutdown initiated...
+Child 12668: Child process is running
+[Fri Dec 14 16:44:40 2018] [notice] Child 12668: Acquired the start mutex.
+[Fri Dec 14 16:44:40 2018] [notice] Child 12668: Starting 64 worker threads.
+[Fri Dec 14 16:44:40 2018] [notice] Child 12668: Starting thread to listen on port 8345.
+[Fri Dec 14 16:45:06 2018] [error] [client 127.0.0.1] File does not exist: D:/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/apache2.0/htdocs/favicon.ico, referer: http://localhost:8345/index.php
+[Fri Dec 14 16:45:06 2018] [error] [client 127.0.0.1] client denied by server configuration: D:/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/error, referer: http://localhost:8345/index.php
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+[Fri Dec 14 16:46:48 2018] [error] [client 127.0.0.1] File does not exist: D:/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/apache2.0/htdocs/favicon.ico, referer: http://127.0.0.1:8345/share/get.php?ip=127.0.0.1
+[Fri Dec 14 16:46:48 2018] [error] [client 127.0.0.1] client denied by server configuration: D:/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/error, referer: http://127.0.0.1:8345/share/get.php?ip=127.0.0.1
+[Fri Dec 14 16:47:08 2018] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Fri Dec 14 16:47:08 2018] [notice] Child 12668: Exit event signaled. Child process is ending.
+[Fri Dec 14 16:47:09 2018] [notice] Child 12668: Released the start mutex
+[Fri Dec 14 16:47:22 2018] [notice] Child 12668: All worker threads have exited.
+[Fri Dec 14 16:47:22 2018] [notice] Child 12668: Child process is exiting
+[Fri Dec 14 17:33:35 2018] [warn] pid file D:/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/apache2.0/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Dec 14 17:33:35 2018] [notice] Apache/2.2.17 (Win32) PHP/5.3.10 configured -- resuming normal operations
+[Fri Dec 14 17:33:35 2018] [notice] Server built: Oct 18 2010 01:58:12
+[Fri Dec 14 17:33:35 2018] [notice] Parent: Created child process 7336
+Apache server shutdown initiated...
+Child 7336: Child process is running
+[Fri Dec 14 17:33:35 2018] [notice] Child 7336: Acquired the start mutex.
+[Fri Dec 14 17:33:35 2018] [notice] Child 7336: Starting 64 worker threads.
+[Fri Dec 14 17:33:35 2018] [notice] Child 7336: Starting thread to listen on port 8345.
+[Fri Dec 14 17:33:38 2018] [error] [client 127.0.0.1] File does not exist: D:/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/apache2.0/htdocs/favicon.ico, referer: http://localhost:8345/index.php
+[Fri Dec 14 17:33:38 2018] [error] [client 127.0.0.1] client denied by server configuration: D:/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/error, referer: http://localhost:8345/index.php
+[Fri Dec 14 17:42:30 2018] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Fri Dec 14 17:42:30 2018] [notice] Child 7336: Exit event signaled. Child process is ending.
+[Fri Dec 14 17:42:31 2018] [notice] Child 7336: Released the start mutex
+[Fri Dec 14 17:42:32 2018] [notice] Child 7336: All worker threads have exited.
+[Fri Dec 14 17:42:32 2018] [notice] Child 7336: Child process is exiting
+[Fri Dec 14 17:42:32 2018] [notice] Parent: Child process exited successfully.
+[Sun Dec 16 13:37:43 2018] [notice] Apache/2.2.17 (Win32) PHP/5.3.10 configured -- resuming normal operations
+[Sun Dec 16 13:37:43 2018] [notice] Server built: Oct 18 2010 01:58:12
+[Sun Dec 16 13:37:43 2018] [notice] Parent: Created child process 18816
+Apache server shutdown initiated...
+Child 18816: Child process is running
+[Sun Dec 16 13:37:44 2018] [notice] Child 18816: Acquired the start mutex.
+[Sun Dec 16 13:37:44 2018] [notice] Child 18816: Starting 64 worker threads.
+[Sun Dec 16 13:37:44 2018] [notice] Child 18816: Starting thread to listen on port 8345.
+[Sun Dec 16 13:37:47 2018] [error] [client 127.0.0.1] File does not exist: D:/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/apache2.0/htdocs/favicon.ico, referer: http://localhost:8345/index.php
+[Sun Dec 16 13:37:47 2018] [error] [client 127.0.0.1] client denied by server configuration: D:/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/error, referer: http://localhost:8345/index.php
+The system cannot find the path specified.
+[Sun Dec 16 13:38:06 2018] [error] [client 127.0.0.1] File does not exist: D:/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/apache2.0/htdocs/favicon.ico, referer: http://127.0.0.1:8345/share/get.php?ip=127.0.0.1
+[Sun Dec 16 13:38:06 2018] [error] [client 127.0.0.1] client denied by server configuration: D:/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/error, referer: http://127.0.0.1:8345/share/get.php?ip=127.0.0.1
+[Sun Dec 16 13:38:20 2018] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Sun Dec 16 13:38:20 2018] [notice] Child 18816: Exit event signaled. Child process is ending.
+[Sun Dec 16 13:38:21 2018] [notice] Child 18816: Released the start mutex
+[Sun Dec 16 13:38:22 2018] [notice] Child 18816: All worker threads have exited.
+[Sun Dec 16 13:38:22 2018] [notice] Child 18816: Child process is exiting
+[Sun Dec 16 13:38:22 2018] [notice] Parent: Child process exited successfully.
+[Wed Dec 26 09:59:05 2018] [notice] Apache/2.2.17 (Win32) PHP/5.3.10 configured -- resuming normal operations
+[Wed Dec 26 09:59:05 2018] [notice] Server built: Oct 18 2010 01:58:12
+[Wed Dec 26 09:59:05 2018] [notice] Parent: Created child process 10756
+Apache server shutdown initiated...
+Child 10756: Child process is running
+[Wed Dec 26 09:59:05 2018] [notice] Child 10756: Acquired the start mutex.
+[Wed Dec 26 09:59:05 2018] [notice] Child 10756: Starting 64 worker threads.
+[Wed Dec 26 09:59:05 2018] [notice] Child 10756: Starting thread to listen on port 8345.
+[Wed Dec 26 09:59:05 2018] [error] [client 127.0.0.1] File does not exist: D:/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/apache2.0/htdocs/favicon.ico, referer: http://localhost:8345/index.php
+[Wed Dec 26 09:59:05 2018] [error] [client 127.0.0.1] client denied by server configuration: D:/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/error, referer: http://localhost:8345/index.php
+The system cannot find the path specified.
+[Wed Dec 26 10:00:03 2018] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Wed Dec 26 10:00:03 2018] [notice] Child 10756: Exit event signaled. Child process is ending.
+[Wed Dec 26 10:00:04 2018] [notice] Child 10756: Released the start mutex
+[Wed Dec 26 10:00:28 2018] [notice] Child 10756: All worker threads have exited.
+[Wed Dec 26 10:00:28 2018] [notice] Child 10756: Child process is exiting
+[Wed Dec 26 13:22:39 2018] [warn] pid file D:/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/apache2.0/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Dec 26 13:22:39 2018] [notice] Apache/2.2.17 (Win32) PHP/5.3.10 configured -- resuming normal operations
+[Wed Dec 26 13:22:39 2018] [notice] Server built: Oct 18 2010 01:58:12
+[Wed Dec 26 13:22:39 2018] [notice] Parent: Created child process 13808
+Apache server shutdown initiated...
+Child 13808: Child process is running
+[Wed Dec 26 13:22:39 2018] [notice] Child 13808: Acquired the start mutex.
+[Wed Dec 26 13:22:39 2018] [notice] Child 13808: Starting 64 worker threads.
+[Wed Dec 26 13:22:39 2018] [notice] Child 13808: Starting thread to listen on port 8345.
+[Wed Dec 26 13:22:40 2018] [error] [client 127.0.0.1] File does not exist: D:/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/apache2.0/htdocs/favicon.ico, referer: http://localhost:8345/index.php
+[Wed Dec 26 13:22:40 2018] [error] [client 127.0.0.1] client denied by server configuration: D:/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/error, referer: http://localhost:8345/index.php
+[Wed Dec 26 13:23:13 2018] [error] [client 192.168.43.181] client denied by server configuration: D:/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/icons, referer: http://192.168.43.63:8345/
+[Wed Dec 26 13:23:13 2018] [error] [client 192.168.43.181] client denied by server configuration: D:/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/icons, referer: http://192.168.43.63:8345/
+[Wed Dec 26 13:23:13 2018] [error] [client 192.168.43.181] client denied by server configuration: D:/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/error, referer: http://192.168.43.63:8345/
+[Wed Dec 26 13:23:13 2018] [error] [client 192.168.43.181] client denied by server configuration: D:/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/error, referer: http://192.168.43.63:8345/
+[Wed Dec 26 13:23:13 2018] [error] [client 192.168.43.181] client denied by server configuration: D:/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/icons, referer: http://192.168.43.63:8345/
+[Wed Dec 26 13:23:13 2018] [error] [client 192.168.43.181] client denied by server configuration: D:/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/error, referer: http://192.168.43.63:8345/
+[Wed Dec 26 13:23:13 2018] [error] [client 192.168.43.181] File does not exist: D:/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/apache2.0/htdocs/favicon.ico, referer: http://192.168.43.63:8345/
+[Wed Dec 26 13:23:13 2018] [error] [client 192.168.43.181] client denied by server configuration: D:/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/error, referer: http://192.168.43.63:8345/
+[Wed Dec 26 13:23:18 2018] [error] [client 192.168.43.181] client denied by server configuration: D:/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/icons, referer: http://192.168.43.63:8345/uploadserver/
+[Wed Dec 26 13:23:18 2018] [error] [client 192.168.43.181] client denied by server configuration: D:/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/error, referer: http://192.168.43.63:8345/uploadserver/
+[Wed Dec 26 13:23:18 2018] [error] [client 192.168.43.181] client denied by server configuration: D:/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/icons, referer: http://192.168.43.63:8345/uploadserver/
+[Wed Dec 26 13:23:18 2018] [error] [client 192.168.43.181] client denied by server configuration: D:/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/error, referer: http://192.168.43.63:8345/uploadserver/
+[Wed Dec 26 13:23:18 2018] [error] [client 192.168.43.181] client denied by server configuration: D:/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/icons, referer: http://192.168.43.63:8345/uploadserver/
+[Wed Dec 26 13:23:18 2018] [error] [client 192.168.43.181] client denied by server configuration: D:/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/error, referer: http://192.168.43.63:8345/uploadserver/
+[Wed Dec 26 13:23:18 2018] [error] [client 192.168.43.181] client denied by server configuration: D:/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/icons, referer: http://192.168.43.63:8345/uploadserver/
+[Wed Dec 26 13:23:18 2018] [error] [client 192.168.43.181] client denied by server configuration: D:/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/error, referer: http://192.168.43.63:8345/uploadserver/
+[Wed Dec 26 13:30:52 2018] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Wed Dec 26 13:30:52 2018] [notice] Child 13808: Exit event signaled. Child process is ending.
+[Wed Dec 26 13:30:53 2018] [notice] Child 13808: Released the start mutex
+[Wed Dec 26 13:31:15 2018] [notice] Child 13808: All worker threads have exited.
+[Wed Dec 26 13:31:15 2018] [notice] Child 13808: Child process is exiting
+[Fri Dec 28 12:00:58 2018] [warn] pid file D:/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/apache2.0/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Dec 28 12:01:06 2018] [notice] Apache/2.2.17 (Win32) PHP/5.3.10 configured -- resuming normal operations
+[Fri Dec 28 12:01:06 2018] [notice] Server built: Oct 18 2010 01:58:12
+[Fri Dec 28 12:01:06 2018] [notice] Parent: Created child process 3604
+Apache server shutdown initiated...
+Child 3604: Child process is running
+[Fri Dec 28 12:01:06 2018] [notice] Child 3604: Acquired the start mutex.
+[Fri Dec 28 12:01:06 2018] [notice] Child 3604: Starting 64 worker threads.
+[Fri Dec 28 12:01:06 2018] [notice] Child 3604: Starting thread to listen on port 8345.
+[Fri Dec 28 12:01:08 2018] [error] [client 127.0.0.1] File does not exist: D:/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/apache2.0/htdocs/favicon.ico, referer: http://localhost:8345/index.php
+[Fri Dec 28 12:01:08 2018] [error] [client 127.0.0.1] client denied by server configuration: D:/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/error, referer: http://localhost:8345/index.php
+The system cannot find the path specified.
+[Fri Dec 28 12:01:17 2018] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Fri Dec 28 12:01:17 2018] [notice] Child 3604: Exit event signaled. Child process is ending.
+[Fri Dec 28 12:01:18 2018] [notice] Child 3604: Released the start mutex
+[Fri Dec 28 12:01:19 2018] [notice] Child 3604: All worker threads have exited.
+[Fri Dec 28 12:01:20 2018] [notice] Child 3604: Child process is exiting
+[Fri Dec 28 12:01:20 2018] [notice] Parent: Child process exited successfully.
+[Fri Dec 28 12:01:54 2018] [notice] Apache/2.2.17 (Win32) PHP/5.3.10 configured -- resuming normal operations
+[Fri Dec 28 12:01:54 2018] [notice] Server built: Oct 18 2010 01:58:12
+[Fri Dec 28 12:01:54 2018] [notice] Parent: Created child process 15672
+Apache server shutdown initiated...
+Child 15672: Child process is running
+[Fri Dec 28 12:01:54 2018] [notice] Child 15672: Acquired the start mutex.
+[Fri Dec 28 12:01:54 2018] [notice] Child 15672: Starting 64 worker threads.
+[Fri Dec 28 12:01:54 2018] [notice] Child 15672: Starting thread to listen on port 8345.
+[Fri Dec 28 12:01:57 2018] [error] [client 127.0.0.1] File does not exist: D:/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/apache2.0/htdocs/favicon.ico, referer: http://localhost:8345/index.php
+[Fri Dec 28 12:01:57 2018] [error] [client 127.0.0.1] client denied by server configuration: D:/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/error, referer: http://localhost:8345/index.php
+[Fri Dec 28 12:02:02 2018] [error] [client 127.0.0.1] client denied by server configuration: D:/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/icons, referer: http://localhost:8345/
+[Fri Dec 28 12:02:02 2018] [error] [client 127.0.0.1] client denied by server configuration: D:/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/error, referer: http://localhost:8345/
+[Fri Dec 28 12:02:02 2018] [error] [client 127.0.0.1] client denied by server configuration: D:/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/icons, referer: http://localhost:8345/
+[Fri Dec 28 12:02:02 2018] [error] [client 127.0.0.1] client denied by server configuration: D:/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/error, referer: http://localhost:8345/
+[Fri Dec 28 12:02:02 2018] [error] [client 127.0.0.1] client denied by server configuration: D:/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/icons, referer: http://localhost:8345/
+[Fri Dec 28 12:02:02 2018] [error] [client 127.0.0.1] client denied by server configuration: D:/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/error, referer: http://localhost:8345/
+[Fri Dec 28 12:02:10 2018] [error] [client 127.0.0.1] client denied by server configuration: D:/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/icons, referer: http://localhost:8345/files/
+[Fri Dec 28 12:02:10 2018] [error] [client 127.0.0.1] client denied by server configuration: D:/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/error, referer: http://localhost:8345/files/
+[Fri Dec 28 12:02:10 2018] [error] [client 127.0.0.1] client denied by server configuration: D:/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/icons, referer: http://localhost:8345/files/
+[Fri Dec 28 12:02:10 2018] [error] [client 127.0.0.1] client denied by server configuration: D:/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/error, referer: http://localhost:8345/files/
+[Fri Dec 28 12:02:10 2018] [error] [client 127.0.0.1] client denied by server configuration: D:/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/icons, referer: http://localhost:8345/files/
+[Fri Dec 28 12:02:10 2018] [error] [client 127.0.0.1] client denied by server configuration: D:/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/error, referer: http://localhost:8345/files/
+[Fri Dec 28 12:02:15 2018] [error] [client 127.0.0.1] client denied by server configuration: D:/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/icons, referer: http://localhost:8345/material/
+[Fri Dec 28 12:02:15 2018] [error] [client 127.0.0.1] client denied by server configuration: D:/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/error, referer: http://localhost:8345/material/
+[Fri Dec 28 12:02:15 2018] [error] [client 127.0.0.1] client denied by server configuration: D:/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/icons, referer: http://localhost:8345/material/
+[Fri Dec 28 12:02:15 2018] [error] [client 127.0.0.1] client denied by server configuration: D:/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/error, referer: http://localhost:8345/material/
+[Fri Dec 28 12:02:15 2018] [error] [client 127.0.0.1] client denied by server configuration: D:/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/icons, referer: http://localhost:8345/material/
+[Fri Dec 28 12:02:15 2018] [error] [client 127.0.0.1] client denied by server configuration: D:/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/error, referer: http://localhost:8345/material/
+[Fri Dec 28 12:02:15 2018] [error] [client 127.0.0.1] client denied by server configuration: D:/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/icons, referer: http://localhost:8345/material/
+[Fri Dec 28 12:02:15 2018] [error] [client 127.0.0.1] client denied by server configuration: D:/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/error, referer: http://localhost:8345/material/
+[Fri Dec 28 12:02:22 2018] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Fri Dec 28 12:02:22 2018] [notice] Child 15672: Exit event signaled. Child process is ending.
+[Fri Dec 28 12:02:23 2018] [notice] Child 15672: Released the start mutex
+[Fri Dec 28 12:02:24 2018] [notice] Child 15672: All worker threads have exited.
+[Fri Dec 28 12:02:24 2018] [notice] Child 15672: Child process is exiting
+[Fri Dec 28 12:02:24 2018] [notice] Parent: Child process exited successfully.
+[Fri Dec 28 12:06:08 2018] [notice] Apache/2.2.17 (Win32) PHP/5.3.10 configured -- resuming normal operations
+[Fri Dec 28 12:06:08 2018] [notice] Server built: Oct 18 2010 01:58:12
+[Fri Dec 28 12:06:08 2018] [notice] Parent: Created child process 15888
+Apache server shutdown initiated...
+Child 15888: Child process is running
+[Fri Dec 28 12:06:09 2018] [notice] Child 15888: Acquired the start mutex.
+[Fri Dec 28 12:06:09 2018] [notice] Child 15888: Starting 64 worker threads.
+[Fri Dec 28 12:06:09 2018] [notice] Child 15888: Starting thread to listen on port 8345.
+[Fri Dec 28 12:06:10 2018] [error] [client 127.0.0.1] File does not exist: D:/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/apache2.0/htdocs/favicon.ico, referer: http://localhost:8345/index.php
+[Fri Dec 28 12:06:10 2018] [error] [client 127.0.0.1] client denied by server configuration: D:/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/error, referer: http://localhost:8345/index.php
+[Fri Dec 28 12:06:29 2018] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Fri Dec 28 12:06:29 2018] [notice] Child 15888: Exit event signaled. Child process is ending.
+[Fri Dec 28 12:06:30 2018] [notice] Child 15888: Released the start mutex
+[Fri Dec 28 12:06:53 2018] [warn] pid file D:/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/apache2.0/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Dec 28 12:06:53 2018] [notice] Child 15888: All worker threads have exited.
+[Fri Dec 28 12:06:53 2018] [notice] Child 15888: Child process is exiting
+[Fri Dec 28 12:06:53 2018] [notice] Apache/2.2.17 (Win32) PHP/5.3.10 configured -- resuming normal operations
+[Fri Dec 28 12:06:53 2018] [notice] Server built: Oct 18 2010 01:58:12
+[Fri Dec 28 12:06:53 2018] [notice] Parent: Created child process 13440
+Apache server shutdown initiated...
+Child 13440: Child process is running
+[Fri Dec 28 12:06:54 2018] [notice] Child 13440: Acquired the start mutex.
+[Fri Dec 28 12:06:54 2018] [notice] Child 13440: Starting 64 worker threads.
+[Fri Dec 28 12:06:54 2018] [notice] Child 13440: Starting thread to listen on port 8345.
+The system cannot find the path specified.
+[Fri Dec 28 12:07:19 2018] [error] [client 127.0.0.1] File does not exist: D:/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/apache2.0/htdocs/favicon.ico, referer: http://127.0.0.1:8345/share/get.php?ip=127.0.0.1
+[Fri Dec 28 12:07:19 2018] [error] [client 127.0.0.1] client denied by server configuration: D:/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/error, referer: http://127.0.0.1:8345/share/get.php?ip=127.0.0.1
+[Fri Dec 28 12:07:30 2018] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Fri Dec 28 12:07:30 2018] [notice] Child 13440: Exit event signaled. Child process is ending.
+[Fri Dec 28 12:07:31 2018] [notice] Child 13440: Released the start mutex
+[Fri Dec 28 12:07:32 2018] [notice] Child 13440: All worker threads have exited.
+[Fri Dec 28 12:07:32 2018] [notice] Child 13440: Child process is exiting
+[Fri Dec 28 12:07:32 2018] [notice] Parent: Child process exited successfully.
+[Sun Dec 30 18:37:33 2018] [notice] Apache/2.2.17 (Win32) PHP/5.3.10 configured -- resuming normal operations
+[Sun Dec 30 18:37:33 2018] [notice] Server built: Oct 18 2010 01:58:12
+[Sun Dec 30 18:37:33 2018] [notice] Parent: Created child process 3480
+[Sun Dec 30 18:37:33 2018] [notice] Child 3480: Child process is running
+[Sun Dec 30 18:37:33 2018] [notice] Child 3480: Acquired the start mutex.
+[Sun Dec 30 18:37:33 2018] [notice] Child 3480: Starting 64 worker threads.
+[Sun Dec 30 18:37:33 2018] [notice] Child 3480: Starting thread to listen on port 8345.
+[Sun Dec 30 18:37:34 2018] [error] [client 127.0.0.1] File does not exist: C:/Users/R P S Naik/Desktop/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/apache2.0/htdocs/favicon.ico, referer: http://localhost:8345/index.php
+[Sun Dec 30 18:37:34 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/R P S Naik/Desktop/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/error, referer: http://localhost:8345/index.php
+The system cannot find the path specified.
+[Sun Dec 30 18:49:20 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/R P S Naik/Desktop/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/icons, referer: http://localhost:8345/
+[Sun Dec 30 18:49:20 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/R P S Naik/Desktop/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/error, referer: http://localhost:8345/
+[Sun Dec 30 18:49:20 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/R P S Naik/Desktop/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/icons, referer: http://localhost:8345/
+[Sun Dec 30 18:49:20 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/R P S Naik/Desktop/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/error, referer: http://localhost:8345/
+[Sun Dec 30 18:49:20 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/R P S Naik/Desktop/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/icons, referer: http://localhost:8345/
+[Sun Dec 30 18:49:20 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/R P S Naik/Desktop/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/error, referer: http://localhost:8345/
+[Sun Dec 30 19:15:29 2018] [error] [client 127.0.0.1] File does not exist: C:/Users/R P S Naik/Desktop/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/apache2.0/htdocs/images, referer: http://localhost:8345/index.php
+[Sun Dec 30 19:15:29 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/R P S Naik/Desktop/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/error, referer: http://localhost:8345/index.php
+[Sun Dec 30 19:15:37 2018] [error] [client 127.0.0.1] File does not exist: C:/Users/R P S Naik/Desktop/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/apache2.0/htdocs/images, referer: http://localhost:8345/index.php
+[Sun Dec 30 19:15:37 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/R P S Naik/Desktop/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/error, referer: http://localhost:8345/index.php
+[Sun Dec 30 19:25:52 2018] [error] [client 127.0.0.1] script 'C:/Users/R P S Naik/Desktop/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/apache2.0/htdocs/get.php' not found or unable to stat
+[Sun Dec 30 19:25:52 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/R P S Naik/Desktop/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/error
+The system cannot find the path specified.
+[Sun Dec 30 19:27:56 2018] [notice] Parent: child process exited with status 3221225477 -- Restarting.
+[Sun Dec 30 19:27:56 2018] [notice] Apache/2.2.17 (Win32) PHP/5.3.10 configured -- resuming normal operations
+[Sun Dec 30 19:27:56 2018] [notice] Server built: Oct 18 2010 01:58:12
+[Sun Dec 30 19:27:57 2018] [notice] Parent: Created child process 6092
+[Sun Dec 30 19:27:57 2018] [notice] Child 6092: Child process is running
+[Sun Dec 30 19:27:57 2018] [notice] Child 6092: Acquired the start mutex.
+[Sun Dec 30 19:27:57 2018] [notice] Child 6092: Starting 64 worker threads.
+[Sun Dec 30 19:27:57 2018] [notice] Child 6092: Starting thread to listen on port 8345.
+[Sun Dec 30 19:28:02 2018] [notice] Parent: child process exited with status 3221225477 -- Restarting.
+[Sun Dec 30 19:28:02 2018] [notice] Apache/2.2.17 (Win32) PHP/5.3.10 configured -- resuming normal operations
+[Sun Dec 30 19:28:02 2018] [notice] Server built: Oct 18 2010 01:58:12
+[Sun Dec 30 19:28:02 2018] [notice] Parent: Created child process 6916
+[Sun Dec 30 19:28:02 2018] [notice] Child 6916: Child process is running
+[Sun Dec 30 19:28:02 2018] [notice] Child 6916: Acquired the start mutex.
+[Sun Dec 30 19:28:02 2018] [notice] Child 6916: Starting 64 worker threads.
+[Sun Dec 30 19:28:02 2018] [notice] Child 6916: Starting thread to listen on port 8345.
+[Sun Dec 30 19:28:10 2018] [notice] Parent: child process exited with status 3221225477 -- Restarting.
+[Sun Dec 30 19:28:10 2018] [notice] Apache/2.2.17 (Win32) PHP/5.3.10 configured -- resuming normal operations
+[Sun Dec 30 19:28:10 2018] [notice] Server built: Oct 18 2010 01:58:12
+[Sun Dec 30 19:28:10 2018] [notice] Parent: Created child process 11780
+Apache server shutdown initiated...
+Child 11780: Child process is running
+[Sun Dec 30 19:28:10 2018] [notice] Child 11780: Acquired the start mutex.
+[Sun Dec 30 19:28:10 2018] [notice] Child 11780: Starting 64 worker threads.
+[Sun Dec 30 19:28:10 2018] [notice] Child 11780: Starting thread to listen on port 8345.
+[Sun Dec 30 19:28:16 2018] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Sun Dec 30 19:28:16 2018] [notice] Child 11780: Exit event signaled. Child process is ending.
+[Sun Dec 30 19:28:17 2018] [notice] Child 11780: Released the start mutex
+[Sun Dec 30 19:28:18 2018] [notice] Child 11780: All worker threads have exited.
+[Sun Dec 30 19:28:18 2018] [notice] Child 11780: Child process is exiting
+[Sun Dec 30 19:28:18 2018] [notice] Parent: Child process exited successfully.
+[Sun Dec 30 19:28:21 2018] [notice] Apache/2.2.17 (Win32) PHP/5.3.10 configured -- resuming normal operations
+[Sun Dec 30 19:28:21 2018] [notice] Server built: Oct 18 2010 01:58:12
+[Sun Dec 30 19:28:21 2018] [notice] Parent: Created child process 11932
+[Sun Dec 30 19:28:22 2018] [notice] Child 11932: Child process is running
+[Sun Dec 30 19:28:22 2018] [notice] Child 11932: Acquired the start mutex.
+[Sun Dec 30 19:28:22 2018] [notice] Child 11932: Starting 64 worker threads.
+[Sun Dec 30 19:28:22 2018] [notice] Child 11932: Starting thread to listen on port 8345.
+The system cannot find the path specified.
+[Sun Dec 30 19:28:42 2018] [notice] Parent: child process exited with status 3221225477 -- Restarting.
+[Sun Dec 30 19:28:42 2018] [notice] Apache/2.2.17 (Win32) PHP/5.3.10 configured -- resuming normal operations
+[Sun Dec 30 19:28:42 2018] [notice] Server built: Oct 18 2010 01:58:12
+[Sun Dec 30 19:28:42 2018] [notice] Parent: Created child process 8960
+[Sun Dec 30 19:28:43 2018] [notice] Child 8960: Child process is running
+[Sun Dec 30 19:28:43 2018] [notice] Child 8960: Acquired the start mutex.
+[Sun Dec 30 19:28:43 2018] [notice] Child 8960: Starting 64 worker threads.
+[Sun Dec 30 19:28:43 2018] [notice] Child 8960: Starting thread to listen on port 8345.
+[Sun Dec 30 19:28:46 2018] [notice] Parent: child process exited with status 3221225477 -- Restarting.
+[Sun Dec 30 19:28:46 2018] [notice] Apache/2.2.17 (Win32) PHP/5.3.10 configured -- resuming normal operations
+[Sun Dec 30 19:28:46 2018] [notice] Server built: Oct 18 2010 01:58:12
+[Sun Dec 30 19:28:47 2018] [notice] Parent: Created child process 12700
+[Sun Dec 30 19:28:47 2018] [notice] Child 12700: Child process is running
+[Sun Dec 30 19:28:47 2018] [notice] Child 12700: Acquired the start mutex.
+[Sun Dec 30 19:28:47 2018] [notice] Child 12700: Starting 64 worker threads.
+[Sun Dec 30 19:28:47 2018] [notice] Child 12700: Starting thread to listen on port 8345.
+[Sun Dec 30 19:28:50 2018] [notice] Parent: child process exited with status 3221225477 -- Restarting.
+[Sun Dec 30 19:28:50 2018] [notice] Apache/2.2.17 (Win32) PHP/5.3.10 configured -- resuming normal operations
+[Sun Dec 30 19:28:50 2018] [notice] Server built: Oct 18 2010 01:58:12
+[Sun Dec 30 19:28:50 2018] [notice] Parent: Created child process 6664
+[Sun Dec 30 19:28:50 2018] [notice] Child 6664: Child process is running
+[Sun Dec 30 19:28:50 2018] [notice] Child 6664: Acquired the start mutex.
+[Sun Dec 30 19:28:50 2018] [notice] Child 6664: Starting 64 worker threads.
+[Sun Dec 30 19:28:50 2018] [notice] Child 6664: Starting thread to listen on port 8345.
+[Sun Dec 30 19:28:57 2018] [notice] Parent: child process exited with status 3221225477 -- Restarting.
+[Sun Dec 30 19:28:57 2018] [notice] Apache/2.2.17 (Win32) PHP/5.3.10 configured -- resuming normal operations
+[Sun Dec 30 19:28:57 2018] [notice] Server built: Oct 18 2010 01:58:12
+[Sun Dec 30 19:28:57 2018] [notice] Parent: Created child process 10420
+[Sun Dec 30 19:28:57 2018] [notice] Child 10420: Child process is running
+[Sun Dec 30 19:28:57 2018] [notice] Child 10420: Acquired the start mutex.
+[Sun Dec 30 19:28:57 2018] [notice] Child 10420: Starting 64 worker threads.
+[Sun Dec 30 19:28:57 2018] [notice] Child 10420: Starting thread to listen on port 8345.
+[Sun Dec 30 19:29:03 2018] [notice] Parent: child process exited with status 3221225477 -- Restarting.
+[Sun Dec 30 19:29:03 2018] [notice] Apache/2.2.17 (Win32) PHP/5.3.10 configured -- resuming normal operations
+[Sun Dec 30 19:29:03 2018] [notice] Server built: Oct 18 2010 01:58:12
+[Sun Dec 30 19:29:03 2018] [notice] Parent: Created child process 12316
+[Sun Dec 30 19:29:03 2018] [notice] Child 12316: Child process is running
+[Sun Dec 30 19:29:03 2018] [notice] Child 12316: Acquired the start mutex.
+[Sun Dec 30 19:29:03 2018] [notice] Child 12316: Starting 64 worker threads.
+[Sun Dec 30 19:29:03 2018] [notice] Child 12316: Starting thread to listen on port 8345.
+[Sun Dec 30 19:29:10 2018] [error] [client 127.0.0.1] File does not exist: C:/Users/R P S Naik/Desktop/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/apache2.0/htdocs/favicon.ico, referer: http://127.0.0.1:8345/share/recieve.php
+[Sun Dec 30 19:29:10 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/R P S Naik/Desktop/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/error, referer: http://127.0.0.1:8345/share/recieve.php
+[Sun Dec 30 19:29:20 2018] [notice] Parent: child process exited with status 3221225477 -- Restarting.
+[Sun Dec 30 19:29:20 2018] [notice] Apache/2.2.17 (Win32) PHP/5.3.10 configured -- resuming normal operations
+[Sun Dec 30 19:29:20 2018] [notice] Server built: Oct 18 2010 01:58:12
+[Sun Dec 30 19:29:20 2018] [notice] Parent: Created child process 3916
+[Sun Dec 30 19:29:21 2018] [notice] Child 3916: Child process is running
+[Sun Dec 30 19:29:21 2018] [notice] Child 3916: Acquired the start mutex.
+[Sun Dec 30 19:29:21 2018] [notice] Child 3916: Starting 64 worker threads.
+[Sun Dec 30 19:29:21 2018] [notice] Child 3916: Starting thread to listen on port 8345.
+[Sun Dec 30 19:29:24 2018] [notice] Parent: child process exited with status 3221225477 -- Restarting.
+[Sun Dec 30 19:29:24 2018] [notice] Apache/2.2.17 (Win32) PHP/5.3.10 configured -- resuming normal operations
+[Sun Dec 30 19:29:24 2018] [notice] Server built: Oct 18 2010 01:58:12
+[Sun Dec 30 19:29:24 2018] [notice] Parent: Created child process 12092
+[Sun Dec 30 19:29:24 2018] [notice] Child 12092: Child process is running
+[Sun Dec 30 19:29:24 2018] [notice] Child 12092: Acquired the start mutex.
+[Sun Dec 30 19:29:24 2018] [notice] Child 12092: Starting 64 worker threads.
+[Sun Dec 30 19:29:24 2018] [notice] Child 12092: Starting thread to listen on port 8345.
+[Sun Dec 30 19:29:29 2018] [notice] Parent: child process exited with status 3221225477 -- Restarting.
+[Sun Dec 30 19:29:29 2018] [notice] Apache/2.2.17 (Win32) PHP/5.3.10 configured -- resuming normal operations
+[Sun Dec 30 19:29:29 2018] [notice] Server built: Oct 18 2010 01:58:12
+[Sun Dec 30 19:29:29 2018] [notice] Parent: Created child process 8380
+[Sun Dec 30 19:29:29 2018] [notice] Child 8380: Child process is running
+[Sun Dec 30 19:29:29 2018] [notice] Child 8380: Acquired the start mutex.
+[Sun Dec 30 19:29:29 2018] [notice] Child 8380: Starting 64 worker threads.
+[Sun Dec 30 19:29:29 2018] [notice] Child 8380: Starting thread to listen on port 8345.
+[Sun Dec 30 19:29:32 2018] [notice] Parent: child process exited with status 3221225477 -- Restarting.
+[Sun Dec 30 19:29:32 2018] [notice] Apache/2.2.17 (Win32) PHP/5.3.10 configured -- resuming normal operations
+[Sun Dec 30 19:29:32 2018] [notice] Server built: Oct 18 2010 01:58:12
+[Sun Dec 30 19:29:32 2018] [notice] Parent: Created child process 9544
+[Sun Dec 30 19:29:32 2018] [notice] Child 9544: Child process is running
+[Sun Dec 30 19:29:32 2018] [notice] Child 9544: Acquired the start mutex.
+[Sun Dec 30 19:29:32 2018] [notice] Child 9544: Starting 64 worker threads.
+[Sun Dec 30 19:29:32 2018] [notice] Child 9544: Starting thread to listen on port 8345.
+[Sun Dec 30 19:29:37 2018] [notice] Parent: child process exited with status 3221225477 -- Restarting.
+[Sun Dec 30 19:29:37 2018] [notice] Apache/2.2.17 (Win32) PHP/5.3.10 configured -- resuming normal operations
+[Sun Dec 30 19:29:37 2018] [notice] Server built: Oct 18 2010 01:58:12
+[Sun Dec 30 19:29:37 2018] [notice] Parent: Created child process 12044
+[Sun Dec 30 19:29:37 2018] [notice] Child 12044: Child process is running
+[Sun Dec 30 19:29:37 2018] [notice] Child 12044: Acquired the start mutex.
+[Sun Dec 30 19:29:37 2018] [notice] Child 12044: Starting 64 worker threads.
+[Sun Dec 30 19:29:37 2018] [notice] Child 12044: Starting thread to listen on port 8345.
+[Sun Dec 30 19:29:41 2018] [notice] Parent: child process exited with status 3221225477 -- Restarting.
+[Sun Dec 30 19:29:41 2018] [notice] Apache/2.2.17 (Win32) PHP/5.3.10 configured -- resuming normal operations
+[Sun Dec 30 19:29:41 2018] [notice] Server built: Oct 18 2010 01:58:12
+[Sun Dec 30 19:29:41 2018] [notice] Parent: Created child process 11336
+[Sun Dec 30 19:29:41 2018] [notice] Child 11336: Child process is running
+[Sun Dec 30 19:29:41 2018] [notice] Child 11336: Acquired the start mutex.
+[Sun Dec 30 19:29:41 2018] [notice] Child 11336: Starting 64 worker threads.
+[Sun Dec 30 19:29:41 2018] [notice] Child 11336: Starting thread to listen on port 8345.
+The system cannot find the path specified.
+[Sun Dec 30 19:30:09 2018] [notice] Parent: child process exited with status 3221225477 -- Restarting.
+[Sun Dec 30 19:30:09 2018] [notice] Apache/2.2.17 (Win32) PHP/5.3.10 configured -- resuming normal operations
+[Sun Dec 30 19:30:09 2018] [notice] Server built: Oct 18 2010 01:58:12
+[Sun Dec 30 19:30:09 2018] [notice] Parent: Created child process 9448
+[Sun Dec 30 19:30:09 2018] [notice] Child 9448: Child process is running
+[Sun Dec 30 19:30:09 2018] [notice] Child 9448: Acquired the start mutex.
+[Sun Dec 30 19:30:09 2018] [notice] Child 9448: Starting 64 worker threads.
+[Sun Dec 30 19:30:09 2018] [notice] Child 9448: Starting thread to listen on port 8345.
+[Sun Dec 30 19:30:12 2018] [notice] Parent: child process exited with status 3221225477 -- Restarting.
+[Sun Dec 30 19:30:12 2018] [notice] Apache/2.2.17 (Win32) PHP/5.3.10 configured -- resuming normal operations
+[Sun Dec 30 19:30:12 2018] [notice] Server built: Oct 18 2010 01:58:12
+[Sun Dec 30 19:30:12 2018] [notice] Parent: Created child process 13104
+[Sun Dec 30 19:30:12 2018] [notice] Child 13104: Child process is running
+[Sun Dec 30 19:30:12 2018] [notice] Child 13104: Acquired the start mutex.
+[Sun Dec 30 19:30:12 2018] [notice] Child 13104: Starting 64 worker threads.
+[Sun Dec 30 19:30:12 2018] [notice] Child 13104: Starting thread to listen on port 8345.
+[Sun Dec 30 19:30:16 2018] [notice] Parent: child process exited with status 3221225477 -- Restarting.
+[Sun Dec 30 19:30:16 2018] [notice] Apache/2.2.17 (Win32) PHP/5.3.10 configured -- resuming normal operations
+[Sun Dec 30 19:30:16 2018] [notice] Server built: Oct 18 2010 01:58:12
+[Sun Dec 30 19:30:16 2018] [notice] Parent: Created child process 7732
+[Sun Dec 30 19:30:17 2018] [notice] Child 7732: Child process is running
+[Sun Dec 30 19:30:17 2018] [notice] Child 7732: Acquired the start mutex.
+[Sun Dec 30 19:30:17 2018] [notice] Child 7732: Starting 64 worker threads.
+[Sun Dec 30 19:30:17 2018] [notice] Child 7732: Starting thread to listen on port 8345.
+[Sun Dec 30 19:30:21 2018] [notice] Parent: child process exited with status 3221225477 -- Restarting.
+[Sun Dec 30 19:30:21 2018] [notice] Apache/2.2.17 (Win32) PHP/5.3.10 configured -- resuming normal operations
+[Sun Dec 30 19:30:21 2018] [notice] Server built: Oct 18 2010 01:58:12
+[Sun Dec 30 19:30:21 2018] [notice] Parent: Created child process 12140
+[Sun Dec 30 19:30:21 2018] [notice] Child 12140: Child process is running
+[Sun Dec 30 19:30:21 2018] [notice] Child 12140: Acquired the start mutex.
+[Sun Dec 30 19:30:21 2018] [notice] Child 12140: Starting 64 worker threads.
+[Sun Dec 30 19:30:21 2018] [notice] Child 12140: Starting thread to listen on port 8345.
+[Sun Dec 30 19:30:30 2018] [notice] Parent: child process exited with status 3221225477 -- Restarting.
+[Sun Dec 30 19:30:30 2018] [notice] Apache/2.2.17 (Win32) PHP/5.3.10 configured -- resuming normal operations
+[Sun Dec 30 19:30:30 2018] [notice] Server built: Oct 18 2010 01:58:12
+[Sun Dec 30 19:30:30 2018] [notice] Parent: Created child process 4476
+[Sun Dec 30 19:30:30 2018] [notice] Child 4476: Child process is running
+[Sun Dec 30 19:30:30 2018] [notice] Child 4476: Acquired the start mutex.
+[Sun Dec 30 19:30:30 2018] [notice] Child 4476: Starting 64 worker threads.
+[Sun Dec 30 19:30:30 2018] [notice] Child 4476: Starting thread to listen on port 8345.
+[Sun Dec 30 19:30:34 2018] [notice] Parent: child process exited with status 3221225477 -- Restarting.
+[Sun Dec 30 19:30:34 2018] [notice] Apache/2.2.17 (Win32) PHP/5.3.10 configured -- resuming normal operations
+[Sun Dec 30 19:30:34 2018] [notice] Server built: Oct 18 2010 01:58:12
+[Sun Dec 30 19:30:34 2018] [notice] Parent: Created child process 13172
+Apache server shutdown initiated...
+Child 13172: Child process is running
+[Sun Dec 30 19:30:34 2018] [notice] Child 13172: Acquired the start mutex.
+[Sun Dec 30 19:30:34 2018] [notice] Child 13172: Starting 64 worker threads.
+[Sun Dec 30 19:30:34 2018] [notice] Child 13172: Starting thread to listen on port 8345.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+[Sun Dec 30 19:32:23 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/R P S Naik/Desktop/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/icons, referer: http://localhost:8345/
+[Sun Dec 30 19:32:23 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/R P S Naik/Desktop/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/error, referer: http://localhost:8345/
+[Sun Dec 30 19:32:23 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/R P S Naik/Desktop/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/icons, referer: http://localhost:8345/
+[Sun Dec 30 19:32:23 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/R P S Naik/Desktop/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/icons, referer: http://localhost:8345/
+[Sun Dec 30 19:32:23 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/R P S Naik/Desktop/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/error, referer: http://localhost:8345/
+[Sun Dec 30 19:32:23 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/R P S Naik/Desktop/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/error, referer: http://localhost:8345/
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+[Sun Dec 30 19:53:03 2018] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Sun Dec 30 19:53:03 2018] [notice] Child 13172: Exit event signaled. Child process is ending.
+[Sun Dec 30 19:53:04 2018] [notice] Child 13172: Released the start mutex
+[Sun Dec 30 19:53:05 2018] [notice] Child 13172: All worker threads have exited.
+[Sun Dec 30 19:53:05 2018] [notice] Child 13172: Child process is exiting
+[Sun Dec 30 19:53:05 2018] [notice] Parent: Child process exited successfully.
+[Sun Dec 30 19:57:09 2018] [notice] Apache/2.2.17 (Win32) PHP/5.3.10 configured -- resuming normal operations
+[Sun Dec 30 19:57:09 2018] [notice] Server built: Oct 18 2010 01:58:12
+[Sun Dec 30 19:57:09 2018] [notice] Parent: Created child process 10464
+Apache server shutdown initiated...
+Child 10464: Child process is running
+[Sun Dec 30 19:57:09 2018] [notice] Child 10464: Acquired the start mutex.
+[Sun Dec 30 19:57:09 2018] [notice] Child 10464: Starting 64 worker threads.
+[Sun Dec 30 19:57:09 2018] [notice] Child 10464: Starting thread to listen on port 8345.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+[Sun Dec 30 21:41:20 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/R P S Naik/Desktop/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/icons, referer: http://localhost:8345/
+[Sun Dec 30 21:41:20 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/R P S Naik/Desktop/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/icons, referer: http://localhost:8345/
+[Sun Dec 30 21:41:21 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/R P S Naik/Desktop/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/error, referer: http://localhost:8345/
+[Sun Dec 30 21:41:21 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/R P S Naik/Desktop/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/error, referer: http://localhost:8345/
+[Sun Dec 30 21:41:21 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/R P S Naik/Desktop/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/icons, referer: http://localhost:8345/
+[Sun Dec 30 21:41:21 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/R P S Naik/Desktop/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/error, referer: http://localhost:8345/
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+[Sun Dec 30 21:49:51 2018] [error] [client 127.0.0.1] File does not exist: C:/Users/R P S Naik/Desktop/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/apache2.0/htdocs/share/images, referer: http://localhost:8345/share/push.php
+[Sun Dec 30 21:49:51 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/R P S Naik/Desktop/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/error, referer: http://localhost:8345/share/push.php
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+[Sun Dec 30 21:51:01 2018] [error] [client 127.0.0.1] File does not exist: C:/Users/R P S Naik/Desktop/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/apache2.0/htdocs/share/images, referer: http://localhost:8345/share/push.php
+[Sun Dec 30 21:51:01 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/R P S Naik/Desktop/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/error, referer: http://localhost:8345/share/push.php
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+[Sun Dec 30 22:02:08 2018] [error] [client 127.0.0.1] File does not exist: C:/Users/R P S Naik/Desktop/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/apache2.0/htdocs/favicon.ico, referer: http://localhost:8345/index.php
+[Sun Dec 30 22:02:08 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/R P S Naik/Desktop/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/error, referer: http://localhost:8345/index.php
+[Sun Dec 30 22:02:08 2018] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Sun Dec 30 22:02:08 2018] [notice] Child 10464: Exit event signaled. Child process is ending.
+[Sun Dec 30 22:02:09 2018] [notice] Child 10464: Released the start mutex
+[Sun Dec 30 22:02:16 2018] [notice] Child 10464: All worker threads have exited.
+[Sun Dec 30 22:02:16 2018] [notice] Child 10464: Child process is exiting
+[Sun Dec 30 22:02:18 2018] [warn] pid file C:/Users/R P S Naik/Desktop/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/apache2.0/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Dec 30 22:02:18 2018] [notice] Apache/2.2.17 (Win32) PHP/5.3.10 configured -- resuming normal operations
+[Sun Dec 30 22:02:18 2018] [notice] Server built: Oct 18 2010 01:58:12
+[Sun Dec 30 22:02:18 2018] [notice] Parent: Created child process 10356
+Apache server shutdown initiated...
+Child 10356: Child process is running
+[Sun Dec 30 22:02:18 2018] [notice] Child 10356: Acquired the start mutex.
+[Sun Dec 30 22:02:18 2018] [notice] Child 10356: Starting 64 worker threads.
+[Sun Dec 30 22:02:18 2018] [notice] Child 10356: Starting thread to listen on port 8345.
+[Sun Dec 30 22:02:20 2018] [error] [client 127.0.0.1] File does not exist: C:/Users/R P S Naik/Desktop/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/apache2.0/htdocs/favicon.ico, referer: http://localhost:8345/index.php
+[Sun Dec 30 22:02:20 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/R P S Naik/Desktop/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/error, referer: http://localhost:8345/index.php
+The system cannot find the path specified.
+The system cannot find the path specified.
+[Sun Dec 30 22:02:37 2018] [error] [client 127.0.0.1] File does not exist: C:/Users/R P S Naik/Desktop/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/apache2.0/htdocs/favicon.ico, referer: http://127.0.0.1:8345/share/get.php?ip=127.0.0.1
+[Sun Dec 30 22:02:37 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/R P S Naik/Desktop/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/error, referer: http://127.0.0.1:8345/share/get.php?ip=127.0.0.1
+[Sun Dec 30 22:02:56 2018] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Sun Dec 30 22:02:56 2018] [notice] Child 10356: Exit event signaled. Child process is ending.
+[Sun Dec 30 22:02:57 2018] [notice] Child 10356: Released the start mutex
+[Sun Dec 30 22:02:58 2018] [notice] Child 10356: All worker threads have exited.
+[Sun Dec 30 22:02:58 2018] [notice] Child 10356: Child process is exiting
+[Sun Dec 30 22:02:58 2018] [notice] Parent: Child process exited successfully.
+[Sun Dec 30 22:08:51 2018] [notice] Apache/2.2.17 (Win32) PHP/5.3.10 configured -- resuming normal operations
+[Sun Dec 30 22:08:51 2018] [notice] Server built: Oct 18 2010 01:58:12
+[Sun Dec 30 22:08:51 2018] [notice] Parent: Created child process 14280
+Apache server shutdown initiated...
+Child 14280: Child process is running
+[Sun Dec 30 22:08:51 2018] [notice] Child 14280: Acquired the start mutex.
+[Sun Dec 30 22:08:51 2018] [notice] Child 14280: Starting 64 worker threads.
+[Sun Dec 30 22:08:51 2018] [notice] Child 14280: Starting thread to listen on port 8345.
+[Sun Dec 30 22:08:51 2018] [error] [client 127.0.0.1] File does not exist: C:/Users/R P S Naik/Desktop/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/apache2.0/htdocs/favicon.ico, referer: http://localhost:8345/
+[Sun Dec 30 22:08:51 2018] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/R P S Naik/Desktop/Fast-Share-for-Desktops-Win-x86_64-v1.0.1-stable-portable/error, referer: http://localhost:8345/
+[Sun Dec 30 22:09:03 2018] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Sun Dec 30 22:09:03 2018] [notice] Child 14280: Exit event signaled. Child process is ending.
+[Sun Dec 30 22:09:04 2018] [notice] Child 14280: Released the start mutex
+[Sun Dec 30 22:09:36 2018] [notice] Child 14280: Waiting 270 more seconds for 2 worker threads to finish.
